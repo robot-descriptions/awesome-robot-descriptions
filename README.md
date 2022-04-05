@@ -13,30 +13,32 @@ A curated list of awesome robot models.
 
 ## Humanoids
 
-Humanoids have two legs, a torso and two arms.
+_Humanoids have two legs, a torso and two arms._
 
-* [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) (URDF): Hydraulically-powered robot developed by Boston Dynamics.
-* [JVRC-1](https://github.com/stephane-caron/jvrc_description) (URDF): Virtual humanoid model released for education and research.
+* [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) - Hydraulically-powered robot developed by Boston Dynamics. (URDF)
+* [JVRC-1](https://github.com/stephane-caron/jvrc_description) - Virtual humanoid model released for education and research. (URDF)
 
 ## Manipulators
 
-Manipulators consist of a robotic arm with a gripper mounted at the end effector.
+_Manipulators are robotic arms with a gripper mounted at their end effector._
 
-* [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/e3beced2025277411b456e11450316d07a146f5a/manipulation/models/iiwa_description) (URDF): a lightweight manipulator developed by KUKA.
+* [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/e3beced2025277411b456e11450316d07a146f5a/manipulation/models/iiwa_description) - Lightweight manipulator developed by KUKA. (URDF)
 
 ## Quadrupeds
 
-Quadruped robots have four legs.
+_Quadruped robots have four legs._
 
-* [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) (URDF): developed by ANYbotics.
-* [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) (URDF): developed by ANYbotics.
-* [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description): developed by Boston Dynamics.
+* [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) - Quadruped robot developed by ANYbotics. (URDF)
+* [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) - Quadruped robot developed by ANYbotics. (URDF)
+* [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) - Quadruped robot developed by Boston Dynamics. (URDF)
 
 ## Wheeled bipeds
 
-Wheeled bipeds have two legs terminated by wheels. Yes, R2-D2 is a biped 😉 Although it can also deploy a third smaller front wheel, in which case it is not a biped any more.
+_Wheeled bipeds have two legs terminated by wheels._
 
-* [Upkie](https://github.com/tasts-robots/upkie_description)
+Yes, R2-D2 is a biped 😉 Although it can also deploy a third smaller front wheel, in which case it is not a biped any more.
+
+* [Upkie](https://github.com/tasts-robots/upkie_description) - Homemade wheeled biped. (URDF)
 
 ## Gallery
 
