@@ -36,8 +36,6 @@ _Quadruped robots have four legs._
 
 _Wheeled bipeds have two legs terminated by wheels._
 
-Yes, R2-D2 is a biped 😉 Although it can also deploy a third smaller front wheel, in which case it is not a biped any more.
-
 * [Upkie](https://github.com/tasts-robots/upkie_description) - Homemade wheeled biped. (URDF)
 
 ## Gallery
