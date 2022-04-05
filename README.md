@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome robot models.
+A curated list of awesome robot models in URDF or MJCF formats.
 
 ## Contents
 
