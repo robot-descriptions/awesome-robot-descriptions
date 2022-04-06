@@ -47,6 +47,7 @@ _Upper-body humanoids have two arms and a torso, but no legs._
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
 | [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | ? |
+| [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | ? |
 
 ## Wheeled bipeds
 
