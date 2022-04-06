@@ -15,28 +15,37 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 _Humanoids have two legs, a torso and two arms._
 
-* [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) - Hydraulically-powered robot developed by Boston Dynamics. (URDF)
-* [JVRC-1](https://github.com/stephane-caron/jvrc_description) - Virtual humanoid model released for education and research. (URDF)
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | URDF | BSD-3-Clause | 30 | ? |
+| [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | ? | ? |
 
 ## Manipulators
 
 _Manipulators are robotic arms with a gripper mounted at their end effector._
 
-* [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/e3beced2025277411b456e11450316d07a146f5a/manipulation/models/iiwa_description) - Lightweight manipulator developed by KUKA. (URDF)
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/e3beced2025277411b456e11450316d07a146f5a/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | ? | ? |
 
 ## Quadrupeds
 
 _Quadruped robots have four legs._
 
-* [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) - Quadruped robot developed by ANYbotics. (URDF)
-* [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) - Quadruped robot developed by ANYbotics. (URDF)
-* [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) - Quadruped robot developed by Boston Dynamics. (URDF)
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | URDF | MPL-2.0 | 12 | ? |
+| [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | ? | URDF | 12 | ? |
+| [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | ? | URDF | 12 | ? |
+| [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ? | URDF | 12 | ? |
 
 ## Wheeled bipeds
 
 _Wheeled bipeds have two legs terminated by wheels._
 
-* [Upkie](https://github.com/tasts-robots/upkie_description) - Homemade wheeled biped. (URDF)
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [Upkie](https://github.com/tasts-robots/upkie_description) | URDF | GPL-3.0 | 6 | 5.4 |
 
 ## Gallery
 
