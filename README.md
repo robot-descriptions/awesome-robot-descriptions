@@ -9,6 +9,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 * [Humanoids](#humanoids)
 * [Manipulators](#manipulators)
 * [Quadrupeds](#quadrupeds)
+* [Upper-body humanoids](#upper-body-humanoids)
 * [Wheeled bipeds](#wheeled-bipeds)
 
 ## Humanoids
@@ -38,6 +39,14 @@ _Quadruped robots have four legs._
 | [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | ? | URDF | 12 | ? |
 | [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | ? | URDF | 12 | ? |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ? | URDF | 12 | ? |
+
+## Upper-body humanoids
+
+_Upper-body humanoids have two arms and a torso, but no legs._
+
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | ? |
 
 ## Wheeled bipeds
 
