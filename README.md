@@ -19,7 +19,7 @@ _Humanoids have a torso, two legs and/or two arms._
 |------|--------|---------|--------|-----------|
 | [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | URDF | BSD-3-Clause | 30 | ? |
 | [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | ? |
-| [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | ? | ? |
+| [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | 44 | ? |
 | [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | ? |
 
 ## Manipulators
