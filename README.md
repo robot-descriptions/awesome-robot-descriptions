@@ -72,13 +72,13 @@ _Quadruped robots have four legs._
 |------|--------|---------|--------|-----------|
 | [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | URDF | MPL-2.0 | 12 | 19 |
 | [Aliengo](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | URDF | MPL-2.0 | 12 | 21 |
-| [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | URDF | 12 | 30 |
-| [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | URDF | 12 | 52 |
-| [Go1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | URDF | 12 | 12 |
-| [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | URDF | 12 | 87 |
-| [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | URDF | 12 | 25 |
-| [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | URDF | 12 | 2.5 | 
-| [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | URDF | 12 | ✖️ |
+| [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | URDF | BSD-3-Clause | 12 | 30 |
+| [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | URDF | BSD-3-Clause | 12 | 52 |
+| [Go1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 12 |
+| [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | URDF | Apache-2.0 | 12 | 87 |
+| [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 25 |
+| [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | URDF | BSD-3-Clause | 12 | 2.5 | 
+| [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | URDF | ✖️ | 12 | ✖️ |
 
 ## Wheeled bipeds
 
