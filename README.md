@@ -17,10 +17,10 @@ _Humanoids have a torso, two legs and/or two arms._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | URDF | BSD-3-Clause | 30 | ? |
-| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | ? |
-| [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | 44 | ? |
-| [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | ? |
+| [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | URDF | BSD-3-Clause | 30 | 175 |
+| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | 137 |
+| [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | 44 | 62 |
+| [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | 3.2 |
 
 ## Manipulators
 
@@ -28,7 +28,7 @@ _Manipulators are robotic arms with a gripper mounted at their end effector._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/e3beced2025277411b456e11450316d07a146f5a/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | ? | ? |
+| [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
 
 ## Quadrupeds
 
@@ -36,10 +36,10 @@ _Quadruped robots have four legs._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | URDF | MPL-2.0 | 12 | ? |
-| [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | ? | URDF | 12 | ? |
-| [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | ? | URDF | 12 | ? |
-| [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ? | URDF | 12 | ? |
+| [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | URDF | MPL-2.0 | 12 | 19 |
+| [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | URDF | 12 | 30 |
+| [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | URDF | 12 | 52 |
+| [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | URDF | 12 | ✖️ |
 
 ## Wheeled bipeds
 
