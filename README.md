@@ -73,7 +73,7 @@ _Quadruped robots have four legs._
 | [Go1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | URDF | 12 | 12 |
 | [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | URDF | 12 | 87 |
 | [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | URDF | 12 | 25 |
-| [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | 12 | 2.5 | 
+| [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | URDF | 12 | 2.5 | 
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | URDF | 12 | ✖️ |
 
 ## Wheeled bipeds
