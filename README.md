@@ -6,10 +6,18 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 ## Contents
 
+* [Educational](#educational)
 * [Humanoids](#humanoids)
 * [Manipulators](#manipulators)
 * [Quadrupeds](#quadrupeds)
 * [Wheeled bipeds](#wheeled-bipeds)
+
+## Educational
+
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [Double pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
+| [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
 
 ## Humanoids
 
