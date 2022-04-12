@@ -39,6 +39,7 @@ _Manipulators are robotic arms with a gripper mounted at their end effector._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
+| [Kinova Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | URDF | BSD | 6 | 4.8 |
 | [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
 
 ## Quadrupeds
