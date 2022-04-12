@@ -29,6 +29,7 @@ _Humanoids have a torso, two legs and/or two arms._
 | [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | 137 |
 | [Bolt](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | URDF | BSD-3-Clause | 6 | 1.3 |
 | [Cassie](https://github.com/UMich-BipedLab/cassie_description) | URDF | ✖️ | 14 | 32 |
+| [iCub](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | URDF | CC-BY-SA-4.0 | 32 | 28 |
 | [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | 44 | 62 |
 | [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | 3.2 |
 
