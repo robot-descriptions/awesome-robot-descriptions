@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome robot models in URDF or MJCF formats.
+A curated list of awesome robot models in URDF, MJCF or SDF formats.
 
 ## Contents
 
@@ -18,7 +18,14 @@ A curated list of awesome robot models in URDF or MJCF formats.
 |------|--------|---------|--------|-----------|
 | [Double pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
 | [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
-| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | URDF | BSD-2-Clause | 29 | 131 |
+| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | SDF | BSD-2-Clause | 29 | 131 |
+
+## End effectors
+
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [Allegro hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
+| [Schunk WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | URDF | BSD-3-Clause | 2 | 1.1 |
 
 ## Humanoids
 
@@ -39,7 +46,7 @@ _Humanoids have a torso, two legs and/or two arms._
 
 ## Manipulators
 
-_Manipulators are robotic arms with a gripper mounted at their end effector._
+_Manipulators are robotic arms with a gripper mounted at their end effector._ The list below includes both arms and manipulators.
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
