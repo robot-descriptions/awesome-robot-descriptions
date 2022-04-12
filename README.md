@@ -33,6 +33,8 @@ _End effectors are sub-systems at the end of a limb, typically an arm or a leg._
 
 _Humanoids have a torso, two legs and/or two arms._
 
+The list below includes both legged and armed humanoids.
+
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
 | [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | URDF | BSD-3-Clause | 30 | 175 |
@@ -48,7 +50,9 @@ _Humanoids have a torso, two legs and/or two arms._
 
 ## Manipulators
 
-_Manipulators are robotic arms with a hand or gripper mounted at their end effector._ The list below includes both arms and manipulators.
+_Manipulators are robotic arms with a hand or gripper mounted at their end effector._
+
+The list below includes both arms and manipulators.
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
