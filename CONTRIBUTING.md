@@ -8,9 +8,10 @@ Before submitting a pull request, please make sure of the following:
 - Use the following format for the link to the model: ``[MODEL-NAME](REPO-LINK) - DESCRIPTION. (FORMAT) [website](WEB-LINK)``
 - Keep descriptions short and simple. End them with a full stop/period.
 - Links should point to a repository on GitHub/GitLab that is, in order of preference:
-    1. Up-to-date and maintained.
-    2. Contains only the model (rather than a bigger project).
-    3. Is the original source rather than a fork.
+    1. Usable and easy to grab (e.g. just the URDF is better than Xacro scripts).
+    2. Up-to-date and maintained.
+    3. Contains only the model (rather than a bigger project).
+    4. Is the original source rather than a fork.
 - Format can be URDF, MJCF, XML, ...
 - Keep descriptions short and simple.
 - Optionally, add a picture to the gallery of the corresponding category.
