@@ -49,6 +49,7 @@ _Quadruped robots have four legs._
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
 | [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | URDF | MPL-2.0 | 12 | 19 |
+| [Aliengo](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | URDF | MPL-2.0 | 12 | 21 |
 | [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | URDF | 12 | 30 |
 | [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | URDF | 12 | 52 |
 | [Go1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | URDF | 12 | 12 |
