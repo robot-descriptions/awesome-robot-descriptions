@@ -22,6 +22,8 @@ A curated list of awesome robot models in URDF, MJCF or SDF formats.
 
 ## End effectors
 
+_End effectors are sub-systems at the end of a limb, typically an arm or a leg._
+
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
 | [Allegro hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
@@ -46,7 +48,7 @@ _Humanoids have a torso, two legs and/or two arms._
 
 ## Manipulators
 
-_Manipulators are robotic arms with a gripper mounted at their end effector._ The list below includes both arms and manipulators.
+_Manipulators are robotic arms with a hand or gripper mounted at their end effector._ The list below includes both arms and manipulators.
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
