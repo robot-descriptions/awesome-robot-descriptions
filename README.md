@@ -16,7 +16,7 @@ A curated list of awesome robot models in URDF, MJCF or SDF formats.
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [Double pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
+| [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
 | [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
 | [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | SDF | BSD-2-Clause | 29 | 131 |
 
@@ -26,7 +26,7 @@ _End effectors are sub-systems at the end of a limb, typically an arm or a leg._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [Allegro hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
+| [Allegro Hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
 | [Schunk WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | URDF | BSD-3-Clause | 2 | 1.1 |
 
 ## Humanoids
