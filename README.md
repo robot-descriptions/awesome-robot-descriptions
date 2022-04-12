@@ -32,6 +32,7 @@ _Humanoids have a torso, two legs and/or two arms._
 | [iCub](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | URDF | CC-BY-SA-4.0 | 32 | 28 |
 | [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | 44 | 62 |
 | [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | 3.2 |
+| [Romeo](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | URDF | BSD-3-Clause | 37 | 41 |
 
 ## Manipulators
 
