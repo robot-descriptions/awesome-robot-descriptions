@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome robot models in URDF, MJCF or SDF formats.
+A curated list of awesome robot models in URDF or MJCF formats.
 
 ## Contents
 
@@ -44,7 +44,7 @@ The list below includes both legged and armed humanoids.
 | [JVRC-1](https://github.com/stephane-caron/jvrc_description) | URDF | BSD-2-Clause | 44 | 62 |
 | [Reachy](https://github.com/aubrune/reachy_description) | URDF | Apache-2.0 | 21 | 3.2 |
 | [Romeo](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | URDF | BSD-3-Clause | 37 | 41 |
-| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | SDF | BSD-2-Clause | 29 | 131 |
+| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | URDF | BSD-2-Clause | 29 | 131 |
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | URDF | LGPL-3.0 | 44 | 109 |
 | [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
 | [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | Xacro/URDF | BSD-3-Clause | 30 | 94 |
