@@ -79,6 +79,7 @@ _Quadruped robots have four legs._
 | [Go1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 12 |
 | [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | URDF | Apache-2.0 | 12 | 87 |
 | [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 25 |
+| [MIT Mini Cheetah](https://github.com/graiola/wolf_descriptions/tree/master/minicheetah_description) | Xacro/URDF | BSD | 12 | 9.0 |
 | [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | URDF | BSD-3-Clause | 12 | 2.5 |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | URDF | ✖️ | 12 | ✖️ |
 
