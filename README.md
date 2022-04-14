@@ -47,6 +47,7 @@ The list below includes both legged and armed humanoids.
 | [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | SDF | BSD-2-Clause | 29 | 131 |
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | URDF | LGPL-3.0 | 44 | 109 |
 | [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
+| [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | Xacro/URDF | BSD-3-Clause | 30 | 94 |
 
 ## Manipulators
 
