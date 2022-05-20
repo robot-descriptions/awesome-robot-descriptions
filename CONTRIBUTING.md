@@ -15,7 +15,7 @@ Before submitting a pull request, please make sure of the following:
 - Format can be URDF, MJCF, XML, ...
 - Keep descriptions short and simple.
 - Optionally, add a picture to the gallery of the corresponding category.
-    - The picture should be square, its display size should be 100px by 100px.
+    - The picture should be square, it should display well when rescaled at 100px by 100px.
     - It should only depict the robot model, preferably a 3D visualization over transparent or white background.
 - Model files should come from a legal source and be legally distributed.
 - Order models alphabetically within each category.
