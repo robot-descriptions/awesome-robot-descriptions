@@ -89,7 +89,7 @@ _Wheeled bipeds have two legs terminated by wheels._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [Upkie](https://github.com/tasts-robots/upkie_description) | URDF | GPL-3.0 | 6 | 5.4 |
+| [Upkie](https://github.com/tasts-robots/upkie_description) | URDF | Apache-2.0 | 6 | 5.4 |
 
 ## Gallery
 
