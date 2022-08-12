@@ -17,6 +17,8 @@ See also the [gallery](#gallery) and guidelines to [add a robot model](CONTRIBUT
 
 ## Drones
 
+_Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air._
+
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
 | [Crazyflie 2.0](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | URDF | MIT | 4 | 0.027 |
@@ -30,7 +32,7 @@ See also the [gallery](#gallery) and guidelines to [add a robot model](CONTRIBUT
 
 ## End effectors
 
-_End effectors are sub-systems at the end of a limb, typically an arm or a leg._
+_End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm._
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
