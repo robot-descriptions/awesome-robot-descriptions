@@ -109,6 +109,7 @@ _Wheeled bipeds have two legs terminated by wheels._
 
 ## Related awesome lists
 
+- [Awesome homemade robots](https://github.com/tasts-robots/awesome-homemade-robots)
 - [Awesome URDF](https://github.com/ami-iit/awesome-urdf)
 
 ## 👷 Contribute
