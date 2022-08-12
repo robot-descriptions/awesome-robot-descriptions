@@ -6,6 +6,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 ## Contents
 
+* [Drones](#drones)
 * [Educational](#educational)
 * [Humanoids](#humanoids)
 * [Manipulators](#manipulators)
@@ -13,6 +14,12 @@ A curated list of awesome robot models in URDF or MJCF formats.
 * [Wheeled bipeds](#wheeled-bipeds)
 
 See also the [gallery](#gallery) and guidelines to [add a robot model](CONTRIBUTING.md).
+
+## Drones
+
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [Crazyflie 2.0](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | URDF | MIT | 4 | 0.027 |
 
 ## Educational
 
