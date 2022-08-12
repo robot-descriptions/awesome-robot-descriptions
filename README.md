@@ -1,6 +1,4 @@
-# Awesome Robot Models
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Robot Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome robot models in URDF or MJCF formats.
 
