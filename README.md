@@ -1,4 +1,4 @@
-# Awesome robot models
+# Awesome Robot Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -114,4 +114,4 @@ _Wheeled bipeds have two legs terminated by wheels._
 
 ## 👷 Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
