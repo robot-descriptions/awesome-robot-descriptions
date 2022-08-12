@@ -13,7 +13,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 * [Quadrupeds](#quadrupeds)
 * [Wheeled bipeds](#wheeled-bipeds)
 
-See also the [gallery](#gallery) and guidelines to [add a robot model](CONTRIBUTING.md).
+See also the [gallery](#gallery) and guidelines to [add a robot model](#contribute).
 
 ## Drones
 
