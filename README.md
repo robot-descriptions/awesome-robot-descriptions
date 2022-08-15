@@ -4,17 +4,21 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 ## Contents
 
-* [Drones](#drones)
-* [Educational](#educational)
-* [End effectors](#end-effectors)
-* [Humanoids](#humanoids)
-* [Manipulators](#manipulators)
-* [Quadrupeds](#quadrupeds)
-* [Wheeled bipeds](#wheeled-bipeds)
+* [Robots](#robots)
+    * [Drones](#drones)
+    * [Educational](#educational)
+    * [End effectors](#end-effectors)
+    * [Humanoids](#humanoids)
+    * [Manipulators](#manipulators)
+    * [Quadrupeds](#quadrupeds)
+    * [Wheeled bipeds](#wheeled-bipeds)
+* [Gallery](#gallery)
+* [Related Awesome Lists](#related-awesome-lists)
+* [Add a Model to the List](#add-a-model-to-the-list)
 
-See also the [gallery](#gallery) and guidelines to [add a robot model](#contribute).
+## Robots
 
-## Drones
+### Drones
 
 _Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air._
 
@@ -22,14 +26,14 @@ _Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 |------|--------|---------|--------|-----------|
 | [Crazyflie 2.0](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | URDF | MIT | 4 | 0.027 |
 
-## Educational
+### Educational
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
 | [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
 | [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
 
-## End effectors
+### End effectors
 
 _End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm._
 
@@ -38,7 +42,7 @@ _End effectors are sub-systems at the end of a limb, for example a hand at the e
 | [Allegro Hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
 | [Schunk WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | URDF | BSD-3-Clause | 2 | 1.1 |
 
-## Humanoids
+### Humanoids
 
 _Humanoids have a torso, two legs and/or two arms._
 
@@ -59,7 +63,7 @@ The list below includes both legged and armed humanoids.
 | [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
 | [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | Xacro/URDF | BSD-3-Clause | 30 | 94 |
 
-## Manipulators
+### Manipulators
 
 _Manipulators are robotic arms with a hand or gripper mounted at their end effector._
 
@@ -76,7 +80,7 @@ The list below includes both arms and manipulators.
 | [Universal Robots UR5](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 21 |
 | [Universal Robots UR10](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 33 |
 
-## Quadrupeds
+### Quadrupeds
 
 _Quadruped robots have four legs._
 
@@ -93,7 +97,7 @@ _Quadruped robots have four legs._
 | [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | URDF | BSD-3-Clause | 12 | 2.5 |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | URDF | ✖️ | 12 | ✖️ |
 
-## Wheeled bipeds
+### Wheeled bipeds
 
 _Wheeled bipeds have two legs terminated by wheels._
 
@@ -106,11 +110,11 @@ _Wheeled bipeds have two legs terminated by wheels._
 | <a href="https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets"><img src="https://user-images.githubusercontent.com/1189580/184339424-e392b662-3191-4a9a-83fd-d3ad1d0cc992.png" width=100></a> | <a href="https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description"><img src="https://user-images.githubusercontent.com/1189580/172120044-9f3fc7fb-7082-4b81-b3f4-a10b4d5593b3.png" width=100></a> | <a href="https://github.com/stephane-caron/jvrc_description"><img src="https://user-images.githubusercontent.com/1189580/161763480-6b2941ad-db98-4f8e-8786-417eefda677e.png" width=100></a> | <a href="https://github.com/ANYbotics/anymal_b_simple_description"><img src="https://user-images.githubusercontent.com/1189580/161755631-3e23d2a5-431f-4b2c-a740-fee92a38a0cd.png" width=100></a> | <a href="https://github.com/ANYbotics/anymal_c_simple_description"><img src="https://user-images.githubusercontent.com/1189580/161755668-75640c95-f6a9-405f-86bc-590a24ab4db6.png" width=100></a> | <a href="https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description"><img src="https://user-images.githubusercontent.com/1189580/161756006-10e81cce-cd7b-4888-a384-4defc902621c.png" width=100></a> | <a href="https://github.com/tasts-robots/upkie_description"><img src="https://user-images.githubusercontent.com/1189580/169592756-0d0f00a8-4adf-487c-a4fd-85a82b7f6ad1.png" width=100></a> |
 |--|--|--|--|--|--|--|
 
-## Related awesome lists
+## Related Awesome Lists
 
-- [Awesome homemade robots](https://github.com/tasts-robots/awesome-homemade-robots)
+- [Awesome Homemade Robots](https://github.com/tasts-robots/awesome-homemade-robots)
 - [Awesome URDF](https://github.com/ami-iit/awesome-urdf)
 
-## 👷 Contribute
+## Add a Model to the List
 
-Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+New models are welcome! Check out the [guidelines](CONTRIBUTING.md) before opening a PR.
