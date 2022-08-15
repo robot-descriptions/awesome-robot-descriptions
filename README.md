@@ -6,6 +6,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 * [Drones](#drones)
 * [Educational](#educational)
+* [End effectors](#end-effectors)
 * [Humanoids](#humanoids)
 * [Manipulators](#manipulators)
 * [Quadrupeds](#quadrupeds)
