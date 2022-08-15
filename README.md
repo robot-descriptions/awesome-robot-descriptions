@@ -4,7 +4,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 ## Contents
 
-* [Robots](#robots)
+* [Robot Models](#robot-models)
     * [Drones](#drones)
     * [Educational](#educational)
     * [End effectors](#end-effectors)
@@ -16,7 +16,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 * [Related Awesome Lists](#related-awesome-lists)
 * [Add a Model to the List](#add-a-model-to-the-list)
 
-## Robots
+## Robot Models
 
 ### Drones
 
