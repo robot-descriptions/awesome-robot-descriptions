@@ -76,9 +76,7 @@ The list below includes both arms and manipulators.
 | [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
 | [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | URDF | Apache-2.0 | 7 | ✖️ |
 | [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Xacro/URDF | Apache-2.0 | 8 | 54 |
-| [Universal Robots UR3](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 11 |
-| [Universal Robots UR5](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 21 |
-| [Universal Robots UR10](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 33 |
+| [Universal Robots UR3, UR5, UR10](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 11, 21, 33 |
 
 ### Quadrupeds
 
@@ -90,7 +88,6 @@ _Quadruped robots have four legs._
 | [Aliengo](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | URDF | MPL-2.0 | 12 | 21 |
 | [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | URDF | BSD-3-Clause | 12 | 30 |
 | [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | URDF | BSD-3-Clause | 12 | 52 |
-| [Go1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 12 |
 | [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | URDF | Apache-2.0 | 12 | 87 |
 | [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 25 |
 | [MIT Mini Cheetah](https://github.com/graiola/wolf_descriptions/tree/master/minicheetah_description) | Xacro/URDF | BSD | 12 | 9.0 |
