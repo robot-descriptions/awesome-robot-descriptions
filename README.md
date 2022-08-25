@@ -24,8 +24,8 @@ _Robotic arms are serial kinematic chains designed to move an end effector throu
 
 The list below includes both arms and manipulators (arms with end effectors).
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [e.DO](https://github.com/Comau/eDO_description) | URDF | BSD-3-Clause | 6 | 11 |
 | [Kinova Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | URDF | BSD-3-Clause | 6 | 4.8 |
 | [Kinova Jaco](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/jaco_description) | URDF | BSD-3-Clause | 10 | 5.3 |
@@ -40,14 +40,14 @@ The list below includes both arms and manipulators (arms with end effectors).
 
 _Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air._
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [Crazyflie 2.0](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | URDF | MIT | 4 | 0.027 |
 
 ### Educational
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
 | [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
 
@@ -55,8 +55,8 @@ _Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 
 _End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm._
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [Allegro Hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
 | [Schunk WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | URDF | BSD-3-Clause | 2 | 1.1 |
 
@@ -66,8 +66,8 @@ _Humanoids have a torso, two legs and/or two arms._
 
 The list below includes both legged and armed humanoids.
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | URDF | BSD-3-Clause | 30 | 175 |
 | [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF | BSD-3-Clause | 15 | 137 |
 | [Bolt](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | URDF | BSD-3-Clause | 6 | 1.3 |
@@ -85,8 +85,8 @@ The list below includes both legged and armed humanoids.
 
 _Quadruped robots have four legs._
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | URDF | MPL-2.0 | 12 | 19 |
 | [Aliengo](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | URDF | MPL-2.0 | 12 | 21 |
 | [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | URDF | BSD-3-Clause | 12 | 30 |
@@ -101,8 +101,8 @@ _Quadruped robots have four legs._
 
 _Wheeled bipeds have two legs terminated by wheels._
 
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
 | [Upkie](https://github.com/tasts-robots/upkie_description) | URDF | Apache-2.0 | 6 | 5.4 |
 
 ## Gallery
