@@ -26,7 +26,7 @@ The list below includes both arms and manipulators (arms with end effectors).
 
 | Name | Format | License | Joints | Mass (kg) |
 |------|--------|---------|--------|-----------|
-| [e.DO](https://github.com/Comau/eDO_description) | URDF | BSD-3-Clause | 6 | 11.1 |
+| [e.DO](https://github.com/Comau/eDO_description) | URDF | BSD-3-Clause | 6 | 11 |
 | [Kinova Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | URDF | BSD-3-Clause | 6 | 4.8 |
 | [Kinova Jaco](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/jaco_description) | URDF | BSD-3-Clause | 10 | 5.3 |
 | [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
