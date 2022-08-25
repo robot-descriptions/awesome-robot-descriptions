@@ -2,19 +2,19 @@
 
 Before submitting a pull request, please make sure of the following:
 
-- The corresponding model is not already in the list.
-- You believe the model is **awesome**. This list is a curation, not a collection.
-- Use the following format for the link to the model: ``[MODEL-NAME](REPO-LINK) - DESCRIPTION. (FORMAT) [website](WEB-LINK)``
-- Keep descriptions short and simple. End them with a full stop/period.
-- Links should point to a repository on GitHub/GitLab that is, in order of preference:
+* The corresponding model is not already in the list.
+* You believe the model is **awesome**. This list is a curation, not a collection.
+* Use the following columns for the row of a model: ``| [MODEL-NAME](REPO-LINK) | FORMAT | LICENSE | NB-DOFS | MASS |``
+* Links should point to a repository on GitHub/GitLab that is, in order of preference:
     1. Usable and easy to grab (e.g. just the URDF is better than Xacro scripts).
     2. Up-to-date and maintained.
     3. Contains only the model (rather than a bigger project).
     4. Is the original source (rather than a fork).
-- Format can be URDF, MJCF, XML, ...
-- Model files should come from a legal source, and be legally distributed.
-- Models are sorted alphabetically within each category.
-- Remove trailing whitespaces.
+* Format can be URDF, MJCF, XML, ...
+* Use only two significant digits for the mass.
+* Model files should come from a legal source, and be legally distributed.
+* Models are sorted alphabetically within each category.
+* Remove trailing whitespaces.
 
 Every link and contribution, no matter how large or small, is highly appreciated and encouraged as it helps us gather a directory of useful robot models.
 
