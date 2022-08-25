@@ -107,7 +107,7 @@ _Wheeled bipeds have two legs terminated by wheels._
 
 ## Gallery
 
-| <a href="https://github.com/Comau/eDO_description"><img src="https://user-images.githubusercontent.com/1189580/186620995-72a1bf23-5b01-43a8-a259-b0554b104bde.png" width=100></a> | | |
+| <a href="https://github.com/Comau/eDO_description"><img src="https://user-images.githubusercontent.com/1189580/186620995-72a1bf23-5b01-43a8-a259-b0554b104bde.png" width=100></a> | <a href="https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description"><img src="https://user-images.githubusercontent.com/1189580/186625328-0a90663e-8250-4558-a621-b87c69513d06.png" width=100></a> | |
 |--|--|--|
 | <a href="https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets"><img src="https://user-images.githubusercontent.com/1189580/184339424-e392b662-3191-4a9a-83fd-d3ad1d0cc992.png" width=100></a> | | |
 | <a href="https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description"><img src="https://user-images.githubusercontent.com/1189580/172120044-9f3fc7fb-7082-4b81-b3f4-a10b4d5593b3.png" width=100></a> | <a href="https://github.com/stephane-caron/jvrc_description"><img src="https://user-images.githubusercontent.com/1189580/161763480-6b2941ad-db98-4f8e-8786-417eefda677e.png" width=100></a> | <a href="https://github.com/tasts-robots/upkie_description"><img src="https://user-images.githubusercontent.com/1189580/169592756-0d0f00a8-4adf-487c-a4fd-85a82b7f6ad1.png" width=100></a> | |
