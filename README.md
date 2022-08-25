@@ -79,7 +79,7 @@ The list below includes both legged and armed humanoids.
 | [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | URDF | BSD-2-Clause | 29 | 131 |
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | URDF | LGPL-3.0 | 44 | 109 |
 | [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
-| [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | Xacro/URDF | BSD-3-Clause | 30 | 94 |
+| [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | Xacro | BSD-3-Clause | 30 | 94 |
 
 ### Quadrupeds
 
@@ -93,7 +93,7 @@ _Quadruped robots have four legs._
 | [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | URDF | BSD-3-Clause | 12 | 52 |
 | [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | URDF | Apache-2.0 | 12 | 87 |
 | [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | URDF | MPL-2.0 | 12 | 25 |
-| [MIT Mini Cheetah](https://github.com/graiola/wolf_descriptions/tree/master/minicheetah_description) | Xacro/URDF | BSD | 12 | 9.0 |
+| [MIT Mini Cheetah](https://github.com/graiola/wolf_descriptions/tree/master/minicheetah_description) | Xacro | BSD | 12 | 9.0 |
 | [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | URDF | BSD-3-Clause | 12 | 2.5 |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | URDF | ✖️ | 12 | ✖️ |
 
