@@ -31,7 +31,7 @@ The list below includes both arms and manipulators (arms with end effectors).
 | [Kinova Jaco](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/jaco_description) | URDF | BSD-3-Clause | 10 | 5.3 |
 | [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
 | [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | URDF | Apache-2.0 | 7 | ✖️ |
-| [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Xacro/URDF | Apache-2.0 | 8 | 54 |
+| [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Xacro | Apache-2.0 | 8 | 54 |
 | [Universal Robots UR3](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Xacro, [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | Apache-2.0 | 6 | 11 |
 | [Universal Robots UR5](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Xacro, [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | Apache-2.0 | 6 | 21 |
 | [Universal Robots UR10](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Xacro, [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | Apache-2.0 | 6 | 33 |
