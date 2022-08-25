@@ -20,7 +20,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 ### Arms
 
-_Robotic arms are serial kinematic chains designed to move an end effector through a workspace._
+Robotic arms are serial kinematic chains designed to move an end effector through a workspace.
 
 The list below includes both arms and manipulators (arms with end effectors).
 
@@ -38,7 +38,7 @@ The list below includes both arms and manipulators (arms with end effectors).
 
 ### Drones
 
-_Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air._
+Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
@@ -53,7 +53,7 @@ _Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 
 ### End effectors
 
-_End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm._
+End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm.
 
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
@@ -62,7 +62,7 @@ _End effectors are sub-systems at the end of a limb, for example a hand at the e
 
 ### Humanoids
 
-_Humanoids have a torso, two legs and/or two arms._
+Humanoids have a torso, two legs and/or two arms.
 
 The list below includes both legged and armed humanoids.
 
@@ -83,7 +83,7 @@ The list below includes both legged and armed humanoids.
 
 ### Quadrupeds
 
-_Quadruped robots have four legs._
+Quadruped robots have four legs.
 
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
@@ -99,7 +99,7 @@ _Quadruped robots have four legs._
 
 ### Wheeled bipeds
 
-_Wheeled bipeds have two legs terminated by wheels._
+Wheeled bipeds have two legs terminated by wheels.
 
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
@@ -120,4 +120,4 @@ _Wheeled bipeds have two legs terminated by wheels._
 
 ## Add a Model to the List
 
-New models are welcome! Check out the [guidelines](CONTRIBUTING.md) before opening a PR.
+New models are welcome! Check out the [guidelines](CONTRIBUTING.md), then open a PR.
