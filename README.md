@@ -5,11 +5,11 @@ A curated list of awesome robot models in URDF or MJCF formats.
 ## Contents
 
 * [Robot Models](#robot-models)
+    * [Arms](#arms)
     * [Drones](#drones)
     * [Educational](#educational)
     * [End effectors](#end-effectors)
     * [Humanoids](#humanoids)
-    * [Manipulators](#manipulators)
     * [Quadrupeds](#quadrupeds)
     * [Wheeled bipeds](#wheeled-bipeds)
 * [Gallery](#gallery)
@@ -17,6 +17,22 @@ A curated list of awesome robot models in URDF or MJCF formats.
 * [Add a Model to the List](#add-a-model-to-the-list)
 
 ## Robot Models
+
+### Arms
+
+_Robotic arms are serial kinematic chains designed to move an end effector through a workspace._
+
+The list below includes both arms and manipulators (arms with end effectors).
+
+| Name | Format | License | Joints | Mass (kg) |
+|------|--------|---------|--------|-----------|
+| [e.DO](https://github.com/Comau/eDO_description) | URDF | BSD-3-Clause | 6 | 11.1 |
+| [Kinova Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | URDF | BSD-3-Clause | 6 | 4.8 |
+| [Kinova Jaco](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/jaco_description) | URDF | BSD-3-Clause | 10 | 5.3 |
+| [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
+| [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | URDF | Apache-2.0 | 7 | ✖️ |
+| [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Xacro/URDF | Apache-2.0 | 8 | 54 |
+| [Universal Robots UR3, UR5, UR10](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 11, 21, 33 |
 
 ### Drones
 
@@ -62,21 +78,6 @@ The list below includes both legged and armed humanoids.
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | URDF | LGPL-3.0 | 44 | 109 |
 | [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
 | [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | Xacro/URDF | BSD-3-Clause | 30 | 94 |
-
-### Manipulators
-
-_Manipulators are robotic arms with a hand or gripper mounted at their end effector._
-
-The list below includes both arms and manipulators.
-
-| Name | Format | License | Joints | Mass (kg) |
-|------|--------|---------|--------|-----------|
-| [Kinova Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | URDF | BSD | 6 | 4.8 |
-| [Kinova Jaco](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/jaco_description) | URDF | BSD | 10 | 5.3 |
-| [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
-| [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | URDF | Apache-2.0 | 7 | ✖️ |
-| [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Xacro/URDF | Apache-2.0 | 8 | 54 |
-| [Universal Robots UR3, UR5, UR10](https://github.com/Gepetto/example-robot-data/tree/master/robots/ur_description) | URDF | BSD | 6 | 11, 21, 33 |
 
 ### Quadrupeds
 
