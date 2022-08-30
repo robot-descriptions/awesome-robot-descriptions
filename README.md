@@ -28,7 +28,6 @@ The list below includes both arms and manipulators (arms with end effectors).
 |------|---------|---------|--------|-----------|
 | [e.DO](https://github.com/Comau/eDO_description) | URDF | BSD-3-Clause | 6 | 11 |
 | [Kinova Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | URDF | BSD-3-Clause | 6 | 4.8 |
-| [Kinova Jaco](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/jaco_description) | URDF | BSD-3-Clause | 10 | 5.3 |
 | [KUKA iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | URDF | BSD-3-Clause | 7 | 31 |
 | [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | URDF | Apache-2.0 | 7 | ✖️ |
 | [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Xacro | Apache-2.0 | 8 | 54 |
