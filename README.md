@@ -57,7 +57,7 @@ End effectors are sub-systems at the end of a limb, for example a hand at the en
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
 | [Allegro Hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description)  | URDF | BSD | 16 | 0.95 |
-| [Schunk WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | URDF | BSD-3-Clause | 2 | 1.1 |
+| [Schunk WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | SDF | BSD-3-Clause | 2 | 1.1 |
 
 ### Humanoids
 
