@@ -8,10 +8,10 @@ A curated list of awesome robot models in URDF or MJCF formats.
     * [Arms](#arms)
     * [Drones](#drones)
     * [Educational](#educational)
-    * [End effectors](#end-effectors)
+    * [End Effectors](#end-effectors)
     * [Humanoids](#humanoids)
     * [Quadrupeds](#quadrupeds)
-    * [Wheeled bipeds](#wheeled-bipeds)
+    * [Wheeled Bipeds](#wheeled-bipeds)
 * [Gallery](#gallery)
 * [Related Awesome Lists](#related-awesome-lists)
 * [Add a Model to the List](#add-a-model-to-the-list)
@@ -50,7 +50,7 @@ Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 | [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
 | [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
 
-### End effectors
+### End Effectors
 
 End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm.
 
@@ -97,7 +97,7 @@ Quadruped robots have four legs.
 | [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | ODRI | URDF | BSD-3-Clause | 12 | 2.5 |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | Boston Dynamics | URDF | ✖️ | 12 | ✖️ |
 
-### Wheeled bipeds
+### Wheeled Bipeds
 
 Wheeled bipeds have two legs terminated by wheels.
 
