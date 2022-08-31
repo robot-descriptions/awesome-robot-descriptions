@@ -1,10 +1,10 @@
-# Awesome Robot Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Robot Descriptions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome robot models in URDF or MJCF formats.
+A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 ## Contents
 
-* [Robot Models](#robot-models)
+* [Robot Descriptions](#robot-descriptions)
     * [Arms](#arms)
     * [Drones](#drones)
     * [Educational](#educational)
@@ -14,9 +14,9 @@ A curated list of awesome robot models in URDF or MJCF formats.
     * [Wheeled Bipeds](#wheeled-bipeds)
 * [Gallery](#gallery)
 * [Related Awesome Lists](#related-awesome-lists)
-* [Add a Model to the List](#add-a-model-to-the-list)
+* [Add a Description to the List](#add-a-description-to-the-list)
 
-## Robot Models
+## Robot Descriptions
 
 ### Arms
 
@@ -118,6 +118,6 @@ Wheeled bipeds have two legs terminated by wheels.
 * [Awesome Homemade Robots](https://github.com/tasts-robots/awesome-homemade-robots)
 * [Awesome URDF](https://github.com/ami-iit/awesome-urdf)
 
-## Add a Model to the List
+## Add a Description to the List
 
-New models are welcome! Check out the [guidelines](CONTRIBUTING.md), then open a PR.
+New robot descriptions are welcome! Check out the [guidelines](CONTRIBUTING.md), then open a PR.

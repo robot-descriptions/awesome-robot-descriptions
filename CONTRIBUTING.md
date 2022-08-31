@@ -2,28 +2,28 @@
 
 Before submitting a pull request, please make sure of the following:
 
-* The corresponding model is not already in the list.
-* You believe the model is **awesome**. This list is a curation, not a collection.
-* Use the following columns for the row of a model: ``| [MODEL-NAME](REPO-LINK) | FORMAT | LICENSE | NB-DOFS | MASS |``
+* The corresponding description is not already in the list.
+* You believe the robot description is **awesome**. This list is a curation, not a collection.
+* Use the following columns for the row of a description: ``| [ROBOT-NAME](REPO-LINK) | FORMAT | LICENSE | NB-DOFS | MASS |``
 * Links should point to a repository on GitHub/GitLab that is, in order of preference:
     1. Usable and easy to grab (e.g. just the URDF is better than Xacro scripts).
     2. Up-to-date and maintained.
-    3. Contains only the model (rather than a bigger project).
+    3. Contains only the description (rather than a bigger project).
     4. Is the original source (rather than a fork).
 * Format can be URDF, MJCF, XML, ...
 * Use only two significant digits for the mass.
-* Model files should come from a legal source, and be legally distributed.
-* Models are sorted alphabetically within each category.
+* Descriptions should come from a legal source, and be legally distributed.
+* Descriptions are sorted alphabetically within each category.
 * Remove trailing whitespaces.
 
-Every link and contribution, no matter how large or small, is highly appreciated and encouraged as it helps us gather a directory of useful robot models.
+Every link and contribution, no matter how large or small, is highly appreciated and encouraged as it helps us gather a directory of useful robot descriptions.
 
 ## Adding a picture to the gallery
 
-Optionally, you can add a picture to the gallery for a given model:
+Optionally, you can add a picture to the gallery for a given description:
 
 - The picture should be square, it should display well when rescaled at 100px by 100px.
-- It should only depict the robot model, preferably a 3D visualization over transparent or white background.
+- It should only depict the robot, preferably a 3D visualization over transparent or white background.
 
 ## Updating your PR
 
