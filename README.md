@@ -31,9 +31,9 @@ The list below includes both arms and manipulators (arms with end effectors).
 | [iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | KUKA | URDF | BSD-3-Clause | 7 | 31 |
 | [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Franka Emika | URDF | Apache-2.0 | 7 | ✖️ |
 | [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Rethink Robotics | Xacro | Apache-2.0 | 8 | 54 |
-| [UR3](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Universal Robots | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro), [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf) | Apache-2.0 | 6 | 11 |
-| UR5 | Universal Robots | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5_robot.urdf.xacro), [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf) | Apache-2.0 | 6 | 21 |
-| UR10 | Universal Robots | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10_robot.urdf.xacro), [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf) | Apache-2.0 | 6 | 33 |
+| [UR3](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro)  | Apache-2.0 | 6 | 11 |
+| UR5 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5_robot.urdf.xacro) | Apache-2.0 | 6 | 21 |
+| UR10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10_robot.urdf.xacro) | Apache-2.0 | 6 | 33 |
 
 ### Drones
 
@@ -74,7 +74,7 @@ The list below includes both legged and armed humanoids.
 | [iCub](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | IIT | URDF | CC-BY-SA-4.0 | 32 | 28 |
 | [JVRC-1](https://github.com/stephane-caron/jvrc_description) | AIST | URDF | BSD-2-Clause | 44 | 62 |
 | [Reachy](https://github.com/aubrune/reachy_description) | Pollen Robotics | URDF | Apache-2.0 | 21 | 3.2 |
-| [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Willow Garage | Xacro, [URDF](https://github.com/RobotLocomotion/drake) | BSD | 14 | 227 |
+| [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Willow Garage | [URDF](https://github.com/RobotLocomotion/drake/blob/master/examples/pr2/models/pr2_description/urdf/pr2_simplified.urdf), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | 227 |
 | [Romeo](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | Aldebaran Robotics | URDF | BSD-3-Clause | 37 | 41 |
 | [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | N/A | URDF | BSD-2-Clause | 29 | 131 |
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | PAL Robotics | URDF | LGPL-3.0 | 44 | 109 |
