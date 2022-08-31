@@ -6,6 +6,7 @@ A curated list of awesome robot models in URDF or MJCF formats.
 
 * [Robot Models](#robot-models)
     * [Arms](#arms)
+    * [Dual Arms](#dual-arms)
     * [Drones](#drones)
     * [Educational](#educational)
     * [End effectors](#end-effectors)
@@ -34,6 +35,12 @@ The list below includes both arms and manipulators (arms with end effectors).
 | [Universal Robots](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) UR3 | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro), [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf) | Apache-2.0 | 6 | 11 |
 | Universal Robots UR5 | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5_robot.urdf.xacro), [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf) | Apache-2.0 | 6 | 21 |
 | Universal Robots UR10 | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10_robot.urdf.xacro), [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf) | Apache-2.0 | 6 | 33 |
+
+### Dual Arms
+
+| Name | Formats | License | Joints | Mass (kg) |
+|------|---------|---------|--------|-----------|
+| [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Xacro, [URDF](https://github.com/RobotLocomotion/drake) | BSD | 14 | 227 |
 
 ### Drones
 
