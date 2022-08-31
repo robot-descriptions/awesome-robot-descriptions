@@ -102,7 +102,7 @@ Quadruped robots have four legs.
 Wheeled bipeds have two legs terminated by wheels.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
-|------|---------|---------|--------|-----------|
+|------|-------|---------|---------|--------|-----------|
 | [Upkie](https://github.com/tasts-robots/upkie_description) | Tast's Robots | URDF | Apache-2.0 | 6 | 5.4 |
 
 ## Gallery
