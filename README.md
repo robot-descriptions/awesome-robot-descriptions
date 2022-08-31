@@ -85,8 +85,8 @@ The list below includes both legged and armed humanoids.
 
 Quadruped robots have four legs.
 
-| Name | Formats | License | Joints | Mass (kg) |
-|------|---------|---------|--------|-----------|
+| Name | Maker | Formats | License | Joints | Mass (kg) |
+|------|-------|---------|---------|--------|-----------|
 | [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | UNITREE Robotics | URDF | MPL-2.0 | 12 | 19 |
 | [Aliengo](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | UNITREE Robotics | URDF | MPL-2.0 | 12 | 21 |
 | [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | ANYbotics | URDF | BSD-3-Clause | 12 | 30 |
