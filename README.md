@@ -49,6 +49,7 @@ Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 |------|---------|---------|--------|-----------|
 | [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
 | [FingerEdu](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
+| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | URDF | BSD-2-Clause | 29 | 131 |
 
 ### End Effectors
 
@@ -76,7 +77,6 @@ The list below includes both legged and armed humanoids.
 | [Reachy](https://github.com/aubrune/reachy_description) | Pollen Robotics | URDF | Apache-2.0 | 21 | 3.2 |
 | [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Willow Garage | [URDF](https://github.com/RobotLocomotion/drake/blob/master/examples/pr2/models/pr2_description/urdf/pr2_simplified.urdf), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | 227 |
 | [Romeo](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | Aldebaran Robotics | URDF | BSD-3-Clause | 37 | 41 |
-| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | N/A | URDF | BSD-2-Clause | 29 | 131 |
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | PAL Robotics | URDF | LGPL-3.0 | 44 | 109 |
 | [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | PAL Robotics | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
 | [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | IIT | Xacro | BSD-3-Clause | 30 | 94 |
