@@ -40,6 +40,7 @@ The list below includes both arms and manipulators (arms with end effectors).
 
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
+| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | URDF, Xacro | BSD-3-Clause | 14 | 75 |
 | [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Xacro, [URDF](https://github.com/RobotLocomotion/drake) | BSD | 14 | 227 |
 
 ### Drones
