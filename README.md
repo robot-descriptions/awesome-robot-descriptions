@@ -48,7 +48,7 @@ Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
 | [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
-| [FingerEdu v1](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
+| [FingerEdu](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
 
 ### End Effectors
 
