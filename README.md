@@ -6,12 +6,12 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 * [Robot Descriptions](#robot-descriptions)
     * [Arms](#arms)
+    * [Bipeds](#bipeds)
     * [Drones](#drones)
     * [Educational](#educational)
     * [End Effectors](#end-effectors)
     * [Humanoids](#humanoids)
     * [Quadrupeds](#quadrupeds)
-    * [Wheeled Bipeds](#wheeled-bipeds)
 * [Gallery](#gallery)
 * [Related Awesome Lists](#related-awesome-lists)
 * [Add a Description to the List](#add-a-description-to-the-list)
@@ -34,6 +34,16 @@ The list below includes both arms and manipulators (arms with end effectors).
 | [UR3](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro)  | Apache-2.0 | 6 | 11 |
 | UR5 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5_robot.urdf.xacro) | Apache-2.0 | 6 | 21 |
 | UR10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10_robot.urdf.xacro) | Apache-2.0 | 6 | 33 |
+
+### Bipeds
+
+Bipeds have two legs terminated by feet or wheels.
+
+| Name | Maker | Formats | License | Joints | Mass (kg) |
+|------|-------|---------|---------|--------|-----------|
+| [Bolt](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | ODRI | URDF | BSD-3-Clause | 6 | 1.3 |
+| [Cassie](https://github.com/UMich-BipedLab/cassie_description) | Agility Robotics | URDF | ✖️ | 14 | 32 |
+| [Upkie](https://github.com/tasts-robots/upkie_description) | Tast's Robots | URDF | Apache-2.0 | 6 | 5.4 |
 
 ### Drones
 
@@ -70,8 +80,6 @@ The list below includes both legged and armed humanoids.
 |------|-------|---------|---------|--------|-----------|
 | [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | Boston Dynamics | URDF | BSD-3-Clause | 30 | 175 |
 | [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | Rethink Robotics | URDF, Xacro | BSD-3-Clause | 15 | 137 |
-| [Bolt](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | ODRI | URDF | BSD-3-Clause | 6 | 1.3 |
-| [Cassie](https://github.com/UMich-BipedLab/cassie_description) | Agility Robotics | URDF | ✖️ | 14 | 32 |
 | [iCub](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | IIT | URDF | CC-BY-SA-4.0 | 32 | 28 |
 | [JVRC-1](https://github.com/stephane-caron/jvrc_description) | AIST | URDF | BSD-2-Clause | 44 | 62 |
 | [Reachy](https://github.com/aubrune/reachy_description) | Pollen Robotics | URDF | Apache-2.0 | 21 | 3.2 |
@@ -96,14 +104,6 @@ Quadruped robots have four legs.
 | [Mini Cheetah](https://github.com/graiola/wolf_descriptions/tree/master/minicheetah_description) | MIT | Xacro | BSD | 12 | 9.0 |
 | [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | ODRI | URDF | BSD-3-Clause | 12 | 2.5 |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | Boston Dynamics | URDF | ✖️ | 12 | ✖️ |
-
-### Wheeled Bipeds
-
-Wheeled bipeds have two legs terminated by wheels.
-
-| Name | Maker | Formats | License | Joints | Mass (kg) |
-|------|-------|---------|---------|--------|-----------|
-| [Upkie](https://github.com/tasts-robots/upkie_description) | Tast's Robots | URDF | Apache-2.0 | 6 | 5.4 |
 
 ## Gallery
 
