@@ -43,7 +43,7 @@ Bipeds have two legs terminated by feet or wheels.
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
 | [Bolt](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | ODRI | URDF | BSD-3-Clause | 6 | 1.3 |
-| [Cassie](https://github.com/UMich-BipedLab/cassie_description) | Agility Robotics | URDF | ✖️ | 14 | 32 |
+| [Cassie](https://github.com/UMich-BipedLab/cassie_description) | Agility Robotics | [MJCF](https://github.com/osudrl/cassie-mujoco-sim/blob/master/model), URDF | ✖️ | 14 | 32 |
 | [Upkie](https://github.com/tasts-robots/upkie_description) | Tast's Robots | URDF | Apache-2.0 | 6 | 5.4 |
 
 ### Drones
