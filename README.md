@@ -10,6 +10,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
     * [Drones](#drones)
     * [Educational](#educational)
     * [End Effectors](#end-effectors)
+    * [Mobile Manipulators](#mobile-manipulators)
     * [Humanoids](#humanoids)
     * [Quadrupeds](#quadrupeds)
 * [Gallery](#gallery)
@@ -70,23 +71,28 @@ End effectors are sub-systems at the end of a limb, for example a hand at the en
 | [Allegro Hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description) | Wonik Robotics | URDF | BSD | 16 | 0.95 |
 | [WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | SCHUNK | SDF | BSD-3-Clause | 2 | 1.1 |
 
+### Mobile Manipulators
+
+Mobile manipulators have a wheeled mobile base and one or two arms.
+
+| Name | Maker | Formats | License | Joints | Mass (kg) |
+|------|-------|---------|---------|--------|-----------|
+| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | Rethink Robotics | URDF, Xacro | BSD-3-Clause | 15 | 137 |
+| [Reachy](https://github.com/aubrune/reachy_description) | Pollen Robotics | URDF | Apache-2.0 | 21 | 3.2 |
+| [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Willow Garage | [URDF](https://github.com/RobotLocomotion/drake/blob/master/examples/pr2/models/pr2_description/urdf/pr2_simplified.urdf), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | 227 |
+| [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | PAL Robotics | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
+
 ### Humanoids
 
-Humanoids have a torso, two legs and/or two arms.
-
-The list below includes both legged and armed humanoids.
+Humanoids have a torso, two legs and two arms.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
 | [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | Boston Dynamics | URDF | BSD-3-Clause | 30 | 175 |
-| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | Rethink Robotics | URDF, Xacro | BSD-3-Clause | 15 | 137 |
 | [iCub](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | IIT | URDF | CC-BY-SA-4.0 | 32 | 28 |
 | [JVRC-1](https://github.com/stephane-caron/jvrc_description) | AIST | URDF | BSD-2-Clause | 44 | 62 |
-| [Reachy](https://github.com/aubrune/reachy_description) | Pollen Robotics | URDF | Apache-2.0 | 21 | 3.2 |
-| [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Willow Garage | [URDF](https://github.com/RobotLocomotion/drake/blob/master/examples/pr2/models/pr2_description/urdf/pr2_simplified.urdf), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | 227 |
 | [Romeo](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | Aldebaran Robotics | URDF | BSD-3-Clause | 37 | 41 |
 | [TALOS](https://github.com/stack-of-tasks/talos-data) | PAL Robotics | URDF | LGPL-3.0 | 44 | 109 |
-| [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | PAL Robotics | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
 | [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | IIT | Xacro | BSD-3-Clause | 30 | 94 |
 
 ### Quadrupeds
