@@ -107,7 +107,7 @@ Quadruped robots have four legs.
 | [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | ANYbotics | URDF | BSD-3-Clause | 12 | 52 |
 | [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | IIT | URDF | Apache-2.0 | 12 | 87 |
 | [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | UNITREE Robotics | URDF | MPL-2.0 | 12 | 25 |
-| [Mini Cheetah](https://github.com/graiola/wolf_descriptions/tree/master/minicheetah_description) | MIT | Xacro | BSD | 12 | 9.0 |
+| Mini Cheetah | MIT | [URDF](https://github.com/Derek-TH-Wang/mini_cheetah_urdf), [Xacro](https://github.com/Derek-TH-Wang/mini_cheetah_urdf) | BSD | 12 | 9.0 |
 | [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | ODRI | URDF | BSD-3-Clause | 12 | 2.5 |
 | [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | Boston Dynamics | URDF | ✖️ | 12 | ✖️ |
 
