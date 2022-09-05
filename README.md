@@ -27,12 +27,12 @@ The list below includes both arms and manipulators (arms with end effectors).
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [e.DO](https://github.com/Comau/eDO_description) | Comau | URDF | BSD-3-Clause | 6 | 11 |
-| [Gen2](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | Kinova | URDF | BSD-3-Clause | 6 | 4.8 |
-| [iiwa 14](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | KUKA | URDF | BSD-3-Clause | 7 | 31 |
-| [Panda](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Franka Emika | URDF | Apache-2.0 | 7 | ✖️ |
-| [Sawyer](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Rethink Robotics | Xacro | Apache-2.0 | 8 | 54 |
-| [UR3](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_description) | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro)  | Apache-2.0 | 6 | 11 |
+| e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | 6 | 11 |
+| Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | 6 | 4.8 |
+| iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description)F | BSD-3-Clause | 7 | 31 |
+| Panda | Franka Emika | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Apache-2.0 | 7 | ✖️ |
+| Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Apache-2.0 | 8 | 54 |
+| UR3 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro) | Apache-2.0 | 6 | 11 |
 | UR5 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5_robot.urdf.xacro) | Apache-2.0 | 6 | 21 |
 | UR10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10_robot.urdf.xacro) | Apache-2.0 | 6 | 33 |
 
@@ -42,9 +42,9 @@ Bipeds have two legs terminated by feet or wheels.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [Bolt](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | ODRI | URDF | BSD-3-Clause | 6 | 1.3 |
-| [Cassie](https://github.com/UMich-BipedLab/cassie_description) | Agility Robotics | [MJCF](https://github.com/osudrl/cassie-mujoco-sim/blob/master/model), URDF | ✖️ | 14 | 32 |
-| [Upkie](https://github.com/tasts-robots/upkie_description) | Tast's Robots | URDF | Apache-2.0 | 6 | 5.4 |
+| Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | 6 | 1.3 |
+| Cassie | Agility Robotics | [MJCF](https://github.com/osudrl/cassie-mujoco-sim/blob/master/model), [URDF](https://github.com/UMich-BipedLab/cassie_description) | ✖️ | 14 | 32 |
+| Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | 6 | 5.4 |
 
 ### Drones
 
@@ -52,15 +52,15 @@ Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [Crazyflie 2.0](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | Bitcraze | URDF | MIT | 4 | 0.027 |
+| Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | MIT | 4 | 0.027 |
 
 ### Educational
 
 | Name | Formats | License | Joints | Mass (kg) |
 |------|---------|---------|--------|-----------|
-| [Double Pendulum](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | URDF | BSD-3-Clause | 2 | 0.7 |
-| [FingerEdu](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | URDF | BSD-3-Clause | 3 | 2.3 |
-| [Simple Humanoid](https://github.com/laas/simple_humanoid_description) | URDF | BSD-2-Clause | 29 | 131 |
+| Double Pendulum | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | BSD-3-Clause | 2 | 0.7 |
+| FingerEdu | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | BSD-3-Clause | 3 | 2.3 |
+| Simple Humanoid | [URDF](https://github.com/laas/simple_humanoid_description) | BSD-2-Clause | 29 | 131 |
 
 ### End Effectors
 
@@ -68,8 +68,8 @@ End effectors are sub-systems at the end of a limb, for example a hand at the en
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [Allegro Hand](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description) | Wonik Robotics | URDF | BSD | 16 | 0.95 |
-| [WSG 50](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | SCHUNK | SDF | BSD-3-Clause | 2 | 1.1 |
+| Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description) | BSD | 16 | 0.95 |
+| WSG 50 | SCHUNK | [SDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | BSD-3-Clause | 2 | 1.1 |
 
 ### Mobile Manipulators
 
@@ -77,10 +77,10 @@ Mobile manipulators have a wheeled mobile base and one or two arms.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [Baxter](https://github.com/RethinkRobotics/baxter_common/tree/master/baxter_description) | Rethink Robotics | URDF, Xacro | BSD-3-Clause | 15 | 137 |
-| [Reachy](https://github.com/aubrune/reachy_description) | Pollen Robotics | URDF | Apache-2.0 | 21 | 3.2 |
-| [PR2](https://github.com/PR2/pr2_common/tree/melodic-devel/pr2_description) | Willow Garage | [URDF](https://github.com/RobotLocomotion/drake/blob/master/examples/pr2/models/pr2_description/urdf/pr2_simplified.urdf), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | 227 |
-| [TIAGo](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | PAL Robotics | URDF | CC-BY-NC-ND 3.0 | 45 | 66 |
+| Baxter | Rethink Robotics | [URDF](https://github.com/RethinkRobotics/baxter_common/blob/master/baxter_description/urdf/baxter.urdf), [Xacro](https://github.com/RethinkRobotics/baxter_common/blob/master/baxter_description/urdf/baxter.urdf.xacro) | BSD-3-Clause | 15 | 137 |
+| Reachy | Pollen Robotics | [URDF](https://github.com/aubrune/reachy_description) | Apache-2.0 | 21 | 3.2 |
+| PR2 | Willow Garage | [URDF](https://github.com/RobotLocomotion/drake/blob/master/examples/pr2/models/pr2_description/urdf/pr2_simplified.urdf), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | 227 |
+| TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | CC-BY-NC-ND 3.0 | 45 | 66 |
 
 ### Humanoids
 
@@ -88,12 +88,12 @@ Humanoids have a torso, two legs and two arms.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [Atlas](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | Boston Dynamics | URDF | BSD-3-Clause | 30 | 175 |
-| [iCub](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | IIT | URDF | CC-BY-SA-4.0 | 32 | 28 |
-| [JVRC-1](https://github.com/stephane-caron/jvrc_description) | AIST | URDF | BSD-2-Clause | 44 | 62 |
-| [Romeo](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | Aldebaran Robotics | URDF | BSD-3-Clause | 37 | 41 |
-| [TALOS](https://github.com/stack-of-tasks/talos-data) | PAL Robotics | URDF | LGPL-3.0 | 44 | 109 |
-| [WALK-MAN](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | IIT | Xacro | BSD-3-Clause | 30 | 94 |
+| Atlas | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | BSD-3-Clause | 30 | 175 |
+| iCub | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | CC-BY-SA-4.0 | 32 | 28 |
+| JVRC-1 | AIST | [URDF](https://github.com/stephane-caron/jvrc_description) | BSD-2-Clause | 44 | 62 |
+| Romeo | Aldebaran Robotics | [URDF](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | BSD-3-Clause | 37 | 41 |
+| TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data) | LGPL-3.0 | 44 | 109 |
+| WALK-MAN | IIT | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | BSD-3-Clause | 30 | 94 |
 
 ### Quadrupeds
 
@@ -101,15 +101,15 @@ Quadruped robots have four legs.
 
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
-| [A1](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | UNITREE Robotics | URDF | MPL-2.0 | 12 | 19 |
-| [Aliengo](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | UNITREE Robotics | URDF | MPL-2.0 | 12 | 21 |
-| [ANYmal B](https://github.com/ANYbotics/anymal_b_simple_description) | ANYbotics | URDF | BSD-3-Clause | 12 | 30 |
-| [ANYmal C](https://github.com/ANYbotics/anymal_c_simple_description) | ANYbotics | URDF | BSD-3-Clause | 12 | 52 |
-| [HyQ](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | IIT | URDF | Apache-2.0 | 12 | 87 |
-| [Laikago](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | UNITREE Robotics | URDF | MPL-2.0 | 12 | 25 |
+| A1 | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | MPL-2.0 | 12 | 19 |
+| Aliengo | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | MPL-2.0 | 12 | 21 |
+| ANYmal B | ANYbotics | [URDF](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | 12 | 30 |
+| ANYmal C | ANYbotics | [URDF](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | 12 | 52 |
+| HyQ | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | 12 | 87 |
+| Laikago | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | 12 | 25 |
 | Mini Cheetah | MIT | [URDF](https://github.com/Derek-TH-Wang/mini_cheetah_urdf), [Xacro](https://github.com/Derek-TH-Wang/mini_cheetah_urdf) | BSD | 12 | 9.0 |
-| [Solo](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | ODRI | URDF | BSD-3-Clause | 12 | 2.5 |
-| [Spot](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | Boston Dynamics | URDF | ✖️ | 12 | ✖️ |
+| Solo | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | 12 | 2.5 |
+| Spot | Boston Dynamics | [URDF](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | 12 | ✖️ |
 
 ## Gallery
 
