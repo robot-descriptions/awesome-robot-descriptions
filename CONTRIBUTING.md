@@ -19,10 +19,13 @@ Every link and contribution, no matter how large or small, is highly appreciated
 
 ## Adding a Picture to the Gallery
 
-Optionally, you can add a picture to the gallery for a given description:
+Optionally, you can add a picture to the gallery for a given robot description. The gallery is organized as a Markdown table of HTML linked pictures:
 
-- The picture should be square and display well when rescaled at 100px by 100px.
-- It should only depict the robot, preferably a 3D visualization over transparent background.
+* Use the following cell format: ``| <a href="LINK-TO-DESCRIPTION"><img src="LINK-TO-IMAGE" alt="ROBOT-NAME" width=100></a> |``
+* Make sure the number of cells per line stays correct. If a line is full, create a new one after it.
+    * The preview feature of GitHub's editor is useful to visualize the updated table.
+* The picture should be square and display well when rescaled at 100px by 100px.
+* It should only depict the robot, preferably a 3D visualization over transparent background.
 
 ## Updating your PR
 
