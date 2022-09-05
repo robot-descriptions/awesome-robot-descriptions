@@ -4,26 +4,25 @@ Before submitting a pull request, please make sure of the following:
 
 * The corresponding description is not already in the list.
 * You believe the robot description is **awesome**. This list is a curation, not a collection.
-* Use the following columns for the row of a description: ``| [ROBOT-NAME](REPO-LINK) | FORMAT | LICENSE | NB-DOFS | MASS |``
-* Links should point to a repository on GitHub/GitLab that is, in order of preference:
-    1. Usable and easy to grab (e.g. just the URDF is better than Xacro scripts).
-    2. Up-to-date and maintained.
-    3. Contains only the description (rather than a bigger project).
-    4. Is the original source (rather than a fork).
+* Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | NB-DOFS | MASS |``
+* Links should point to a public repository that is, in order of preference:
+    1. Up-to-date and maintained.
+    2. Contains only the description (rather than a bigger project).
+    3. Is the original source (rather than a fork).
 * Format can be URDF, MJCF, XML, ...
 * Use only two significant digits for the mass.
 * Descriptions should come from a legal source, and be legally distributed.
 * Descriptions are sorted alphabetically within each category.
 * Remove trailing whitespaces.
 
-Every link and contribution, no matter how large or small, is highly appreciated and encouraged as it helps us gather a directory of useful robot descriptions.
+Every link and contribution, no matter how large or small, is highly appreciated and encouraged, as it helps us maintain a common repository of useful robot descriptions.
 
-## Adding a picture to the gallery
+## Adding a Picture to the Gallery
 
 Optionally, you can add a picture to the gallery for a given description:
 
-- The picture should be square, it should display well when rescaled at 100px by 100px.
-- It should only depict the robot, preferably a 3D visualization over transparent or white background.
+- The picture should be square and display well when rescaled at 100px by 100px.
+- It should only depict the robot, preferably a 3D visualization over transparent background.
 
 ## Updating your PR
 
