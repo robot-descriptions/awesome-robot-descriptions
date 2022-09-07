@@ -102,7 +102,7 @@ Quadruped robots have four legs.
 | Name | Maker | Formats | License | Joints | Mass (kg) |
 |------|-------|---------|---------|--------|-----------|
 | A1 | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | MPL-2.0 | 12 | 19 |
-| Aliengo | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | MPL-2.0 | 12 | 21 |
+| Aliengo | UNITREE Robotics | [MJCF](https://github.com/rohanpsingh/aliengo_mj_description), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | MPL-2.0 | 12 | 21 |
 | ANYmal B | ANYbotics | [URDF](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | 12 | 30 |
 | ANYmal C | ANYbotics | [URDF](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | 12 | 52 |
 | HyQ | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | 12 | 87 |
