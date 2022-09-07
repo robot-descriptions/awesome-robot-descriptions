@@ -107,7 +107,7 @@ Quadruped robots have four legs.
 | ANYmal C | ANYbotics | [URDF](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | 12 | 52 |
 | HyQ | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | 12 | 87 |
 | Laikago | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/laikago/xml), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | 12 | 25 |
-| Mini Cheetah | MIT | [URDF](https://github.com/Derek-TH-Wang/mini_cheetah_urdf), [Xacro](https://github.com/Derek-TH-Wang/mini_cheetah_urdf) | BSD | 12 | 9.0 |
+| Mini Cheetah | MIT | [URDF](https://github.com/Derek-TH-Wang/mini_cheetah_urdf) | BSD | 12 | 9.0 |
 | Minitaur | Ghost Robotics | [URDF](https://github.com/bulletphysics/bullet3/blob/master/data/quadruped/minitaur.urdf) | BSD-2-Clause | 12 | ✔️ |
 | Solo | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | 12 | 2.5 |
 | Spot | Boston Dynamics | [Xacro](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | 12 | ✖️ |
