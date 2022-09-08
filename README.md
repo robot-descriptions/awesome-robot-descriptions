@@ -30,7 +30,8 @@ The list below includes both arms and manipulators (arms with end effectors).
 | e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
 | Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
 | iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | BSD-3-Clause | 7 | ✔️ | ✔️ |
-| Panda | Franka Emika | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda), [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Apache-2.0 | 7 | ✖️ | ✔️ |
+| Panda (MJCF) | Franka Emika | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda) | Apache-2.0 | 7 | ✔️ | ✔️ |
+| Panda (URDF) | Franka Emika | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Apache-2.0 | 7 | ✖️ | ✔️ |
 | Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Apache-2.0 | 8 | ✔️ | ✔️ |
 | UR 3/5/10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/) | Apache-2.0 | 6 | ✔️ | ✔️ |
 | URe 3/5/10 | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
