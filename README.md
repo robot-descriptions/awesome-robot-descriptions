@@ -92,7 +92,7 @@ Humanoids have a torso, two legs and two arms.
 | Name | Maker | Formats | License | Joints | Inertias |
 |------|-------|---------|---------|--------|----------|
 | Atlas | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | BSD-3-Clause | 30 | ✔️ |
-| iCub | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/icub_description) | CC-BY-SA-4.0 | 32 | ✔️ |
+| iCub | IIT | [URDF](https://github.com/robotology/icub-models/tree/master/iCub) | CC-BY-SA-4.0 | 32 | ✔️ |
 | JVRC-1 | AIST | [MJCF](https://github.com/isri-aist/jvrc_mj_description/), [URDF](https://github.com/stephane-caron/jvrc_description) | BSD-2-Clause | 44 | ✔️ |
 | Romeo | Aldebaran Robotics | [URDF](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | BSD-3-Clause | 37 | ✔️ |
 | TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data) | LGPL-3.0 | 44 | ✔️ |
