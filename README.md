@@ -25,44 +25,42 @@ Robotic arms are serial kinematic chains designed to move an end effector throug
 
 The list below includes both arms and manipulators (arms with end effectors).
 
-| Name | Maker | Formats | License | Joints | Inertias |
-|------|-------|---------|---------|--------|----------|
-| e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | 6 | ✔️ |
-| Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | 6 | ✔️ |
-| iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | BSD-3-Clause | 7 | ✔️ |
-| Panda | Franka Emika | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda), [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Apache-2.0 | 7 | ✖️ |
-| Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Apache-2.0 | 8 | ✔️ |
-| UR3 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur3_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur3_robot.urdf.xacro) | Apache-2.0 | 6 | ✔️ |
-| UR5 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5_robot.urdf.xacro) | Apache-2.0 | 6 | ✔️ |
-| UR5e | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | 6 | ✔️ |
-| UR10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10_robot.urdf.xacro) | Apache-2.0 | 6 | ✔️ |
+| Name | Maker | Formats | License | Joints | Inertias | Collisions |
+|------|-------|---------|---------|--------|----------|------------|
+| e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
+| Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
+| iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | BSD-3-Clause | 7 | ✔️ | ✔️ |
+| Panda | Franka Emika | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda), [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description) | Apache-2.0 | 7 | ✖️ | ✔️ |
+| Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Apache-2.0 | 8 | ✔️ | ✔️ |
+| UR 3/5/10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/) | Apache-2.0 | 6 | ✔️ | ✔️ |
+| URe 3/5/10 | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
 
 ### Bipeds
 
 Bipeds have two legs terminated by feet or wheels.
 
-| Name | Maker | Formats | License | Joints | Inertias |
-|------|-------|---------|---------|--------|----------|
-| Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | 6 | ✔️ |
-| Cassie (MJCF) | Agility Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | 20 | ✔️ |
-| Cassie (URDF) | Agility Robotics | [URDF](https://github.com/UMich-BipedLab/cassie_description) | ✖️ | 14 | ✔️ |
-| Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | 6 | ✔️ |
+| Name | Maker | Formats | License | Joints | Inertias | Collisions |
+|------|-------|---------|---------|--------|----------|------------|
+| Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | 6 | ✔️ | ✔️ |
+| Cassie (MJCF) | Agility Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | 20 | ✔️ | ✔️ |
+| Cassie (URDF) | Agility Robotics | [URDF](https://github.com/UMich-BipedLab/cassie_description) | ✖️ | 14 | ✔️ | ✔️ |
+| Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | 6 | ✔️ | ✔️ |
 
 ### Drones
 
 Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 
-| Name | Maker | Formats | License | Joints | Inertias |
-|------|-------|---------|---------|--------|----------|
-| Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | MIT | 4 | ✔️ |
+| Name | Maker | Formats | License | Joints | Inertias | Collisions |
+|------|-------|---------|---------|--------|----------|------------|
+| Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | MIT | 4 | ✔️ | ✔️ |
 
 ### Educational
 
-| Name | Formats | License | Joints | Inertias |
-|------|---------|---------|--------|----------|
-| Double Pendulum | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | BSD-3-Clause | 2 | ✔️ |
-| FingerEdu | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | BSD-3-Clause | 3 | ✔️ |
-| Simple Humanoid | [URDF](https://github.com/laas/simple_humanoid_description) | BSD-2-Clause | 29 | ✔️ |
+| Name | Formats | License | Joints | Inertias | Collisions |
+|------|---------|---------|--------|----------|------------|
+| Double Pendulum | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | BSD-3-Clause | 2 | ✔️ | ✔️ |
+| FingerEdu | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | BSD-3-Clause | 3 | ✔️ | ✔️ |
+| Simple Humanoid | [URDF](https://github.com/laas/simple_humanoid_description) | BSD-2-Clause | 29 | ✔️ | ✖️ |
 
 ### End Effectors
 
