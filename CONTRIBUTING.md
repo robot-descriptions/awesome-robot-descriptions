@@ -4,18 +4,31 @@ Before submitting a pull request, please make sure of the following:
 
 * The corresponding description is not already in the list.
 * You believe the robot description is **awesome**. This list is a curation, not a collection.
-* Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | NB-DOFS | MASS |``
+* Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | NB-DOFS | INERTIA-CHECK | COLLISION-CHECK |``
 * Links should point to a public repository that is, in order of preference:
     1. Up-to-date and maintained.
     2. Contains only the description (rather than a bigger project).
     3. Is the original source (rather than a fork).
-* Format can be URDF, MJCF, XML, ...
-* Use only two significant digits for the mass.
+* Format can be URDF, MJCF, Xacro, ...
 * Descriptions should come from a legal source, and be legally distributed.
 * Descriptions are sorted alphabetically within each category.
 * Remove trailing whitespaces.
 
 Every link and contribution, no matter how large or small, is highly appreciated and encouraged, as it helps us maintain a common repository of useful robot descriptions.
+
+## Checks
+
+### Degrees of Freedom
+
+You can use [`yourdfpy`](https://github.com/clemense/yourdfpy/) to count degrees of freedom: ``yourdfpy ./some/path/robot.urdf -c 0`` Unless the robot has exactly one degree of freedom, the ``-c 0`` argument will raise an error reporting how many degrees of freedom were expected.
+
+### Inertias
+
+Check that all links contain valid ``<inertial>`` tags. Also, do a quick checksum of all masses, e.g. ``cat ./some/path/robot.urdf | grep "<mass"``, and check that the sum of all values is around the expected value for the robot.
+
+### Collisions
+
+Check that all links contain valid ``<collision>`` tags.
 
 ## Adding a Picture to the Gallery
 
