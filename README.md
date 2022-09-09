@@ -7,7 +7,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 * [Robot Descriptions](#robot-descriptions)
     * [Arms](#arms)
     * [Bipeds](#bipeds)
-    * [Dual arms](#dual-arms)
+    * [Dual Arms](#dual-arms)
     * [Drones](#drones)
     * [Educational](#educational)
     * [End Effectors](#end-effectors)
@@ -48,7 +48,7 @@ Bipeds have two legs terminated by feet or wheels.
 | Cassie (URDF) | Agility Robotics | [URDF](https://github.com/UMich-BipedLab/cassie_description) | ✖️ | 14 | ✔️ | ✔️ |
 | Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | 6 | ✔️ | ✔️ |
 
-### Dual arms
+### Dual Arms
 
 | Name | Maker | Formats | License | Joints | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
