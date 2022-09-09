@@ -81,6 +81,7 @@ Mobile manipulators have a wheeled mobile base and one or two arms.
 | Name | Maker | Formats | License | Joints | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | Baxter | Rethink Robotics | [URDF](https://github.com/RethinkRobotics/baxter_common/blob/master/baxter_description/urdf/baxter.urdf), [Xacro](https://github.com/RethinkRobotics/baxter_common/blob/master/baxter_description/urdf/baxter.urdf.xacro) | BSD-3-Clause | 15 | ✔️ | ✔️ |
+| Fetch | Fetch Robotics | [URDF](https://github.com/openai/roboschool/tree/master/roboschool/models_robot/fetch_description) | MIT | 14 | ✔️ | ✔️ |
 | Reachy | Pollen Robotics | [URDF](https://github.com/aubrune/reachy_description) | Apache-2.0 | 21 | ✔️ | ✔️ |
 | PR2 | Willow Garage | [URDF](https://github.com/ankurhanda/robot-assets/tree/master/urdfs/robots/pr2), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | 14 | ✔️ | ✔️ |
 | TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | CC-BY-NC-ND 3.0 | 45 | ✔️ | ✔️ |
