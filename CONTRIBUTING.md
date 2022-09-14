@@ -4,15 +4,20 @@ Before submitting a pull request, please make sure of the following:
 
 * The corresponding description is not already in the list.
 * You believe the robot description is **awesome**. This list is a curation, not a collection.
-* Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | NB-DOFS | INERTIA-CHECK | COLLISION-CHECK |``
-* Links should point to a public repository that is, in order of preference:
-    1. Up-to-date and maintained.
-    2. Contains only the description (rather than a bigger project).
-    3. Is the original source (rather than a fork).
-* Format can be URDF, MJCF, Xacro, ...
 * Descriptions should come from a legal source, and be legally distributed.
 * Descriptions are sorted alphabetically within each category.
 * Remove trailing whitespaces.
+
+Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | NB-DOFS | INERTIA-CHECK | COLLISION-CHECK |``
+
+* Format: can be URDF, MJCF, Xacro, ...
+* Link: point to a public repository that is, in order of preference:
+    1. Up-to-date and maintained.
+    2. Contains only the description (rather than a bigger project).
+    3. Is the original source (rather than a fork).
+* License: report the SPDX identifier of the description license, see: https://spdx.org/licenses/
+* Inertia check: see below
+* Collision checK: see below
 
 Every link and contribution, no matter how large or small, is highly appreciated and encouraged, as it helps us maintain a common repository of useful robot descriptions.
 
