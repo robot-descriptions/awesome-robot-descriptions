@@ -8,7 +8,7 @@ Before submitting a pull request, please make sure of the following:
 * Descriptions are sorted alphabetically within each category.
 * Remove trailing whitespaces.
 
-Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | NB-DOFS | INERTIA-CHECK | COLLISION-CHECK |``
+Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | MESH-CHECK | INERTIA-CHECK | COLLISION-CHECK |``
 
 * Format: can be URDF, MJCF, Xacro, ...
 * Link: point to a public repository that is, in order of preference:
@@ -16,6 +16,7 @@ Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-M
     2. Contains only the description (rather than a bigger project).
     3. Is the original source (rather than a fork).
 * License: report the SPDX identifier of the description license, see: https://spdx.org/licenses/
+* Meshes check: meshes are distributed with the description
 * Inertia check: see below
 * Collision checK: see below
 
