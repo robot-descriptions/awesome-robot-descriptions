@@ -14,6 +14,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
     * [Mobile Manipulators](#mobile-manipulators)
     * [Humanoids](#humanoids)
     * [Quadrupeds](#quadrupeds)
+    * [Wheeled](#wheeled)
 * [Gallery](#gallery)
 * [Related Awesome Lists](#related-awesome-lists)
 * [Add a Description to the List](#add-a-description-to-the-list)
@@ -136,6 +137,12 @@ Quadruped robots have four legs.
 | Minitaur | Ghost Robotics | [URDF](https://github.com/bulletphysics/bullet3/blob/master/data/quadruped/minitaur.urdf) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | Solo | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Spot | Boston Dynamics | [Xacro](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | ✔️ | ✖️ | ✔️ |
+
+### Wheeled
+
+| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
+|------|-------|---------|---------|--------|----------|------------|
+| Jackal | Clearpath Robotics | [Xacro](https://github.com/jackal/jackal/tree/noetic-devel/jackal_description/urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ## Gallery
 
