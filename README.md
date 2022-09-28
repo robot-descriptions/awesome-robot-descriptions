@@ -30,7 +30,8 @@ The list below includes both arms and manipulators (arms with end effectors).
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Gen2 (URDF) | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Gen3 (MJCF) | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Panda (MJCF) | Franka Emika | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Panda (URDF) | Franka Emika | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description), [Xacro](https://github.com/frankaemika/franka_ros/tree/develop/franka_description) | Apache-2.0 | ✔️ | ✖️ | ✔️ |
