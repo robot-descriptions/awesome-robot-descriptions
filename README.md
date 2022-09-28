@@ -151,7 +151,7 @@ Quadruped robots have four legs.
 
 ## Gallery
 
-| <img src="gallery/edo.png" alt="eDO" width=100> | <img src="gallery/ur5.png" alt="UR5" width=100> | <img src="gallery/gen2.png" alt="Gen2" width=100> | | |
+| <img src="gallery/edo.png" alt="eDO" width=100> | <img src="gallery/ur5.png" alt="UR5" width=100> | <img src="gallery/gen2.png" alt="Gen2" width=100> | <img src="gallery/iiwa.png" alt="iiwa 14" width=100> | |
 |--|--|--|--|--|
 | <a href="https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description"><img src="https://github.com/robot-descriptions/awesome-robot-descriptions/raw/main/gallery/bolt.png" alt="Bolt" width=100></a> | <a href="https://github.com/UMich-BipedLab/cassie_description/"><img src="https://github.com/robot-descriptions/awesome-robot-descriptions/raw/main/gallery/cassie.png" alt="Cassie" width=100></a> | <a href="https://github.com/tasts-robots/upkie_description"><img src="https://github.com/robot-descriptions/awesome-robot-descriptions/raw/main/gallery/upkie.png" alt="Upkie" width=100></a> | | |
 | <a href="https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots"><img src="https://github.com/robot-descriptions/awesome-robot-descriptions/raw/main/gallery/barrett_hand.png" alt="BarrettHand" width=100></a> | <a href="https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets"><img src="https://github.com/robot-descriptions/awesome-robot-descriptions/raw/main/gallery/cf2.png" alt="Crazyflie 2.0" width=100></a> | | | |
