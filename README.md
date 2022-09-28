@@ -153,6 +153,7 @@ Quadruped robots have four legs.
 
 | <img src="gallery/edo.png" alt="eDO" width=100> | <img src="gallery/ur5.png" alt="UR5" width=100> | <img src="gallery/gen2.png" alt="Gen2" width=100> | <img src="gallery/iiwa.png" alt="iiwa 14" width=100> | <img src="gallery/panda.png" alt="Panda" width=100> |
 |--|--|--|--|--|
+| <img src="gallery/poppy_ergo_jr.png" alt="Poppy Ergo Jr" width=100> |  |  |  |  |
 | <img src="gallery/bolt.png" alt="Bolt" width=100> | <img src="gallery/cassie.png" alt="Cassie" width=100> | <img src="gallery/upkie.png" alt="Upkie" width=100> | | |
 | <img src="gallery/barrett_hand.png" alt="BarrettHand" width=100> | <img src="gallery/cf2.png" alt="Crazyflie 2.0" width=100> | | | |
 | <img src="gallery/eve_r3.png" alt="Eve R3" width=100> | <img src="gallery/fetch.png" alt="Fetch" width=100> | <img src="gallery/pepper.png" alt="Pepper" width=100> | <img src="gallery/reachy.png" alt="Reachy" width=100> | |
