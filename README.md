@@ -102,7 +102,6 @@ Mobile manipulators have a wheeled mobile base and one or two arms.
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback_manipulation/tree/melodic-devel/ridgeback_manipulation_description) | BSD | ✔️ | ✔️ | ✔️ |
 | Stretch RE1 | Hello Robot | [Xacro](https://github.com/hello-robot/stretch_ros/tree/master/stretch_description) | CC-BY-NC-SA-4.0 | ✔️ | ✔️ | ✔️ |
 | TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | CC-BY-NC-ND-3.0 | ✔️ | ✔️ | ✔️ |
-| UBR-1 | Unbounded Robotics | [URDF](https://github.com/mikeferguson/ubr_reloaded/tree/ros2/ubr1_description) | ✖️ | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
 
