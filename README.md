@@ -161,7 +161,7 @@ Quadruped robots have four legs.
 | <img src="gallery/baxter.png" alt="Baxter" width=100> | <img src="gallery/nextage.png" alt="NEXTAGE" width=100> | <img src="gallery/poppy_torso.png" alt="Poppy Torso" width=100> | <img src="gallery/yumi.png" alt="YuMi" width=100> | |
 | <img src="gallery/eve_r3.png" alt="Eve R3" width=100> | <img src="gallery/fetch.png" alt="Fetch" width=100> | <img src="gallery/pepper.png" alt="Pepper" width=100> | <img src="gallery/reachy.png" alt="Reachy" width=100> | |
 | <img src="gallery/atlas_drc.png" alt="Atlas DRC (v3)" width=100> | <img src="gallery/atlas_v4.png" alt="Atlas v4" width=100> | <img src="gallery/jvrc1.png" alt="JVRC-1" width=100> | <img src="gallery/r2.png" alt="Robonaut 2" width=100> | <img src="gallery/romeo.png" alt="Romeo" width=100> |
-| <img src="gallery/icub.png" alt="iCub" width=100> | <img src="gallery/simple_humanoid.png" alt="Simple Humanoid" width=100> | <img src="gallery/valkyrie.png" alt="Valkyrie" width=100> | | | |
+| <img src="gallery/icub.png" alt="iCub" width=100> | <img src="gallery/simple_humanoid.png" alt="Simple Humanoid" width=100> | <img src="gallery/valkyrie.png" alt="Valkyrie" width=100> | <img src="gallery/jaxon.png" alt="JAXON" width=100> | | |
 | <img src="gallery/a1.png" alt="A1" width=100> | <img src="gallery/anymal_b.png" alt="ANYmal B" width=100> | <img src="gallery/anymal_c.png" alt="ANYmal C" width=100> | <img src="gallery/mini_cheetah.png" alt="Mini Cheetah" width=100> | <img src="gallery/solo.png" alt="Solo" width=100> |
 
 ## Related Awesome Lists
