@@ -48,7 +48,7 @@ Bipeds have two legs terminated by feet or wheels.
 |------|-------|---------|---------|--------|----------|------------|
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Cassie (MJCF) | Agility Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
-| Cassie (URDF) | Agility Robotics | [URDF](https://github.com/UMich-BipedLab/cassie_description) | ✖️ | ✔️ | ✔️ | ✔️ |
+| Cassie (URDF) | Agility Robotics | [URDF](https://github.com/jpreher/cassie_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Dual Arms
