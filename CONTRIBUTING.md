@@ -6,6 +6,7 @@ Before submitting a pull request, please make sure of the following:
 * You believe the robot description is **awesome**. This list is a curation, not a collection.
 * Descriptions should come from a legal source, and be legally distributed.
 * Descriptions are sorted alphabetically within each category.
+* Pick the [right category](#choosing-the-right-category).
 * Remove trailing whitespaces.
 
 Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | MESH-CHECK | INERTIA-CHECK | COLLISION-CHECK |``
@@ -21,6 +22,16 @@ Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-M
 * Collision checK: see below
 
 Every link and contribution, no matter how large or small, is highly appreciated and encouraged, as it helps us maintain a common repository of useful robot descriptions.
+
+## Choosing the Right Category
+
+- Arms: serial kinematic chains designed to move an end effector through a workspace.
+- Bipeds: have two legs terminated by feet or wheels.
+- Drones: a.k.a. unmanned aerial vehicles (UAVs), robots that fly in the air.
+- End Effectors: sub-systems at the end of a limb, for example a hand at the end of an arm.
+- Mobile manipulators: have a wheeled mobile base and one or two arms.
+- Humanoids: have a torso, two legs and two arms.
+- Quadrupeds: have four legs.
 
 ## Checks
 

@@ -23,10 +23,6 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 ### Arms
 
-Robotic arms are serial kinematic chains designed to move an end effector through a workspace.
-
-The list below includes both arms and manipulators (arms with end effectors).
-
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
@@ -41,8 +37,6 @@ The list below includes both arms and manipulators (arms with end effectors).
 | URe 3/5/10 | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ### Bipeds
-
-Bipeds have two legs terminated by feet or wheels.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
@@ -63,8 +57,6 @@ Bipeds have two legs terminated by feet or wheels.
 
 ### Drones
 
-Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
-
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | MIT | ✔️ | ✔️ | ✔️ |
@@ -79,8 +71,6 @@ Drones, a.k.a. unmanned aerial vehicles (UAVs), are robots that fly in the air.
 
 ### End Effectors
 
-End effectors are sub-systems at the end of a limb, for example a hand at the end of an arm.
-
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description) | BSD | ✔️ | ✔️ | ✔️ |
@@ -90,8 +80,6 @@ End effectors are sub-systems at the end of a limb, for example a hand at the en
 | WSG 50 | SCHUNK | [SDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ### Mobile Manipulators
-
-Mobile manipulators have a wheeled mobile base and one or two arms.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
@@ -106,8 +94,6 @@ Mobile manipulators have a wheeled mobile base and one or two arms.
 | TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description) | CC-BY-NC-ND-3.0 | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
-
-Humanoids have a torso, two legs and two arms.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
@@ -126,8 +112,6 @@ Humanoids have a torso, two legs and two arms.
 | WALK-MAN | IIT | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ### Quadrupeds
-
-Quadruped robots have four legs.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
