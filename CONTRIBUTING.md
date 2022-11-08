@@ -9,6 +9,8 @@ Before submitting a pull request, please make sure of the following:
 * Pick the [right category](#choosing-the-right-category).
 * Remove trailing whitespaces.
 
+## Format
+
 Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-MAKER | [FORMAT-1](LINK-1), [FORMAT-2](LINK-2), ... | LICENSE | MESH-CHECK | INERTIA-CHECK | COLLISION-CHECK |``
 
 * Format: can be URDF, MJCF, Xacro, etc.
