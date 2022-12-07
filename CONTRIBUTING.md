@@ -1,4 +1,4 @@
-# Contributions Guidelines
+# Adding a robot description
 
 Before submitting a pull request, please make sure of the following:
 
