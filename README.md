@@ -35,8 +35,12 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 | Panda (URDF) | Franka Emika | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description), [Xacro](https://github.com/frankaemika/franka_ros/tree/develop/franka_description) | Apache-2.0 | ✔️ | ✖️ | ✔️ |
 | Poppy Ergo Jr | Poppy Project | [URDF](https://github.com/poppy-project/poppy_ergo_jr_description) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| UR 3/5/10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| URe 3/5/10 | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| UR10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| UR10e | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur10e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| UR3 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| UR3e | Universal Robots | [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| UR5 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| UR5e | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [URDF](https://github.com/ros-industrial/universal_robot/tree/kinetic-devel/ur_e_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ### Bipeds
 
