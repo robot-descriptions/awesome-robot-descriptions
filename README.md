@@ -130,6 +130,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 | ANYmal B | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_b), [URDF](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | ANYmal C | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_c), [URDF](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Go1 | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/go1/xml), [URDF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/go1/urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Go2 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_go2), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/go2_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | HyQ | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Laikago | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/laikago/xml), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description) | MPL-2.0 | ✔️ | ✔️ | ✔️ |
 | Mini Cheetah | MIT | [URDF](https://github.com/Derek-TH-Wang/mini_cheetah_urdf) | BSD | ✔️ | ✔️ | ✔️ |
@@ -151,10 +152,9 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 | <img src="gallery/edo.png" alt="eDO" width=100> | <img src="gallery/ur5.png" alt="UR5" width=100> | <img src="gallery/gen2.png" alt="Gen2" width=100> | <img src="gallery/iiwa.png" alt="iiwa 14" width=100> | <img src="gallery/panda.png" alt="Panda" width=100> |
 |--|--|--|--|--|
-| <img src="gallery/poppy_ergo_jr.png" alt="Poppy Ergo Jr" width=100> |  |  |  |  |
+| <img src="gallery/baxter.png" alt="Baxter" width=100> | <img src="gallery/nextage.png" alt="NEXTAGE" width=100> | <img src="gallery/poppy_torso.png" alt="Poppy Torso" width=100> | <img src="gallery/yumi.png" alt="YuMi" width=100> | <img src="gallery/poppy_ergo_jr.png" alt="Poppy Ergo Jr" width=100> |
 | <img src="gallery/bolt.png" alt="Bolt" width=100> | <img src="gallery/cassie.png" alt="Cassie" width=100> | <img src="gallery/upkie.png" alt="Upkie" width=100> | <img src="gallery/spryped.png" alt="Spryped" width=100> | <img src="gallery/rhea.png" alt="Rhea" width=100> |
 | <img src="gallery/allegro_hand.png" alt="Allegro Hand" width=100> | <img src="gallery/barrett_hand.png" alt="BarrettHand" width=100> | <img src="gallery/robotiq_2f85.png" alt="Robotiq 2F-85" width=100> | <img src="gallery/cf2.png" alt="Crazyflie 2.0" width=100> | <img src="gallery/finger_edu.png" alt="FingerEdu" width=100> |
-| <img src="gallery/baxter.png" alt="Baxter" width=100> | <img src="gallery/nextage.png" alt="NEXTAGE" width=100> | <img src="gallery/poppy_torso.png" alt="Poppy Torso" width=100> | <img src="gallery/yumi.png" alt="YuMi" width=100> | |
 | <img src="gallery/eve_r3.png" alt="Eve R3" width=100> | <img src="gallery/fetch.png" alt="Fetch" width=100> | <img src="gallery/pepper.png" alt="Pepper" width=100> | <img src="gallery/reachy.png" alt="Reachy" width=100> | <img src="gallery/simple_humanoid.png" alt="Simple Humanoid" width=100> |
 | <img src="gallery/atlas_drc.png" alt="Atlas DRC (v3)" width=100> | <img src="gallery/atlas_v4.png" alt="Atlas v4" width=100> | <img src="gallery/jvrc1.png" alt="JVRC-1" width=100> | <img src="gallery/r2.png" alt="Robonaut 2" width=100> | <img src="gallery/romeo.png" alt="Romeo" width=100> |
 | <img src="gallery/icub.png" alt="iCub" width=100> | <img src="gallery/draco3.png" alt="Draco3" width=100> | <img src="gallery/valkyrie.png" alt="Valkyrie" width=100> | <img src="gallery/jaxon.png" alt="JAXON" width=100> | <img src="gallery/sigmaban.png" alt="SigmaBan" width=100> |
