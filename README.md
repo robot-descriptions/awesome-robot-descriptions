@@ -4,7 +4,6 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 ## Contents
 
-- [Contents](#contents)
 - [Robot Descriptions](#robot-descriptions)
   - [Arms](#arms)
   - [Bipeds](#bipeds)
