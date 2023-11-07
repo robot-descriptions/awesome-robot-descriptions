@@ -167,8 +167,8 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 ## Related Awesome Lists
 
-* [Awesome Open Source Robots](https://github.com/tasts-robots/awesome-open-source-robots)
-* [Awesome URDF](https://github.com/ami-iit/awesome-urdf)
+- [Awesome Open Source Robots](https://github.com/tasts-robots/awesome-open-source-robots)
+- [Awesome URDF](https://github.com/ami-iit/awesome-urdf)
 
 ## Add a Description to the List
 
