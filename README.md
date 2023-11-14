@@ -53,7 +53,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 | OP3 | Robotis | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotis_op3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | ✖️ | ✔️ | ✖️ | ✔️ |
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
-| Upkie | Tast's Robots | [URDF](https://github.com/tasts-robots/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Upkie | Stéphane Caron | [URDF](https://github.com/upkie/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Dual Arms
 
@@ -167,7 +167,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 
 ## Related Awesome Lists
 
-- [Awesome Open Source Robots](https://github.com/tasts-robots/awesome-open-source-robots)
+- [Awesome Open Source Robots](https://github.com/stephane-caron/awesome-open-source-robots)
 - [Awesome URDF](https://github.com/ami-iit/awesome-urdf)
 
 ## Add a Description to the List
