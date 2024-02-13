@@ -42,6 +42,7 @@ A curated list of awesome robot descriptions in URDF or MJCF formats.
 | UR3e | Universal Robots | [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_e_description/urdf/ur3e.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | UR5 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur5_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur5.urdf.xacro) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | UR5e | Universal Robots | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/universal_robots_ur5e), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_e_description/urdf/ur5e.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| ViperX | Interbotix | [Xacro](https://github.com/ian-chuang/Interbotix_ViperX_300_ROS_Control/blob/main/vx300s_description/urdf/vx300s.xacro) | MIT | ✔️ | ✔️ | ✔️ |
 
 ### Bipeds
 
