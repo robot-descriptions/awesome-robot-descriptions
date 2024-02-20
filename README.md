@@ -1,6 +1,6 @@
 # Awesome Robot Descriptions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome robot descriptions in URDF or MJCF formats.
+A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ## Contents
 
