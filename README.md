@@ -69,7 +69,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
-| Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets), [Xacro](https://github.com/whoenig/crazyflie_ros/tree/master/crazyflie_description) | MIT | ✔️ | ✔️ | ✔️ |
+| Crazyflie 1.0 | Bitcraze | [Xacro](https://github.com/whoenig/crazyflie_ros/tree/master/crazyflie_description) | MIT | ✔️ | ✔️ | ✖️ |
+| Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets) | MIT | ✔️ | ✔️ | ✔️ |
 | X2 | Skydio | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/skydio_x2) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Educational
