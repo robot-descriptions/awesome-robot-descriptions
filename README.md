@@ -29,7 +29,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Gen2 (URDF) | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 (MJCF) | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 (URDF) | Kinova | [URDF](https://github.com/facebookresearch/differentiable-robot-model/tree/main/diff_robot_data/kinova_description) | MIT | ✔️ | ✔️ | ✔️ |
-| iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/iiwa_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kuka_iiwa_14) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/models/tree/master/iiwa_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kuka_iiwa_14) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Lite 6 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/lite6/lite6.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/ufactory_lite6) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | M-710iC | FANUC | [URDF](https://github.com/robot-descriptions/fanuc_m710ic_description), [Xacro](https://github.com/ros-industrial/fanuc/tree/melodic-devel/fanuc_m710ic_support) | BSD-3-Clause | ✔️ | ✖️ | ✔️ |
 | Panda (MJCF) | Franka Emika | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
@@ -89,11 +89,11 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
-| Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/allegro_hand_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
+| Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
 | Robotiq 2F-85 | Robotiq | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/robotiq_2f85), [URDF](https://github.com/a-price/robotiq_arg85_description), [Xacro](https://github.com/ros-industrial/robotiq/tree/kinetic-devel/robotiq_2f_85_gripper_visualization) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | Shadow Hand E3M5 | The Shadow Robot Company | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/shadow_hand) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| WSG 50 | SCHUNK | [SDF](https://github.com/RobotLocomotion/drake/tree/master/manipulation/models/wsg_50_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| WSG 50 | SCHUNK | [SDF](https://github.com/RobotLocomotion/models/tree/master/wsg_50_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 ### Mobile Manipulators
 
@@ -115,7 +115,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 | Name | Maker | Formats | License | Meshes | Inertias | Collisions |
 |------|-------|---------|---------|--------|----------|------------|
-| Atlas DRC (v3) | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/drake/tree/master/examples/atlas) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Atlas DRC (v3) | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/models/blob/master/atlas/atlas_convex_hull.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Atlas v4 | Boston Dynamics | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Draco3 | Apptronik | [URDF](https://github.com/shbang91/draco3_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
