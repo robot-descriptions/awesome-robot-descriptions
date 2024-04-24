@@ -141,6 +141,9 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Aliengo | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/aliengo/xml), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | MPL-2.0 | ✔️ | ✔️ | ✔️ |
 | ANYmal B | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_b), [URDF](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | ANYmal C | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_c), [URDF](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Barkour v0 (MJCF) | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_v0/barkour_v0.xml) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Barkour v0 (URDF) | Google | [URDF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_v0/barkour_v0.urdf) | Apache-2.0 | ✔️ | ✖️  | ✔️ |
+| Barkour vb | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_vb/barkour_vb.xml), [URDF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_vb/barkour_vb_rev_1_0_head_straight.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Go1 | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/go1/xml), [URDF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/go1/urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Go2 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_go2), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/go2_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | HyQ | IIT | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/hyq_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
