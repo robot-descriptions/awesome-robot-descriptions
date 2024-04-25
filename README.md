@@ -29,6 +29,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Gen2 (URDF) | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 (MJCF) | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 (URDF) | Kinova | [URDF](https://github.com/facebookresearch/differentiable-robot-model/tree/main/diff_robot_data/kinova_description) | MIT | ✔️ | ✔️ | ✔️ |
+| iiwa 7 | KUKA | [URDF](https://github.com/facebookresearch/differentiable-robot-model/blob/main/diff_robot_data/kuka_iiwa/urdf) | MIT | ✔️ | ✔️ | ✔️ |
 | iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/models/tree/master/iiwa_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kuka_iiwa_14) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Lite 6 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/lite6/lite6.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/ufactory_lite6) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | M-710iC | FANUC | [URDF](https://github.com/robot-descriptions/fanuc_m710ic_description), [Xacro](https://github.com/ros-industrial/fanuc/tree/melodic-devel/fanuc_m710ic_support) | BSD-3-Clause | ✔️ | ✖️ | ✔️ |
