@@ -122,6 +122,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Draco3 | Apptronik | [URDF](https://github.com/shbang91/draco3_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | ergoCub | IIT | [URDF](https://github.com/icub-tech-iit/ergocub-software/tree/master/urdf/ergoCub) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| G1 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_g1), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gundam RX-78 | Bandai Namco Filmworks | [URDF](https://github.com/gundam-global-challenge/gundam_robot/tree/master/gundam_rx78_description) | ✖️  | ✔️ | ✔️ | ✔️ |
 | H1 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_h1), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | iCub | IIT | [URDF](https://github.com/robotology/icub-models/tree/master/iCub) | CC-BY-SA-4.0 | ✔️ | ✔️ | ✔️ |
