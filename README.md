@@ -97,6 +97,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
 | LEAP Hand v1 | Carnegie Mellon University | [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/blob/150bc3d4b61fd6619193ba5a8ef209f3609ced89/assets/leap_hand/robot.urdf) | MIT | ✔️ | ✔️ | ✔️ |
 | Robotiq 2F-85 | Robotiq | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/robotiq_2f85), [URDF](https://github.com/a-price/robotiq_arg85_description), [Xacro](https://github.com/ros-industrial/robotiq/tree/kinetic-devel/robotiq_2f_85_gripper_visualization) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
+| SCHUNK SVH Hand | SCHUNK | [Xacro](https://github.com/SCHUNK-SE-Co-KG/schunk_svh_ros_driver/blob/e35bebf9e2137a11f2677e6e0f54f66a03348afb/schunk_svh_description/urdf/svh.urdf.xacro) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Shadow DEX-EE | The Shadow Robot Company | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/shadow_dexee) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Shadow Hand E3M5 | The Shadow Robot Company | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/shadow_hand) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | WSG 50 | SCHUNK | [SDF](https://github.com/RobotLocomotion/models/tree/master/wsg_50_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
