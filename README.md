@@ -23,8 +23,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Arms
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | FR3 | Franka Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/franka_fr3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Gen2 (URDF) | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
@@ -52,8 +52,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Bipeds
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Cassie (MJCF) | Agility Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
 | Cassie (URDF) | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description) | MIT | ✔️ | ✔️ | ✔️ |
@@ -64,8 +64,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Dual Arms
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Baxter | Rethink Robotics | [URDF](https://github.com/RethinkRobotics/baxter_common/blob/master/baxter_description/urdf/baxter.urdf), [Xacro](https://github.com/RethinkRobotics/baxter_common/blob/master/baxter_description/urdf/baxter.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Dual iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/models/blob/master/iiwa_description/urdf/dual_iiwa14_polytope_collision.urdf), [Xacro](https://github.com/RobotLocomotion/models/blob/master/iiwa_description/urdf/dual_iiwa14_polytope_collision.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | NEXTAGE | Kawada Robotics | [URDF](https://github.com/tork-a/rtmros_nextage/tree/indigo-devel/nextage_description) | BSD | ✔️ | ✔️ | ✔️ |
@@ -74,16 +74,16 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Drones
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Crazyflie 1.0 | Bitcraze | [Xacro](https://github.com/whoenig/crazyflie_ros/tree/master/crazyflie_description) | MIT | ✔️ | ✔️ | ✖️ |
 | Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/bitcraze_crazyflie_2) | MIT | ✔️ | ✔️ | ✔️ |
 | X2 | Skydio | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/skydio_x2), [URDF](https://github.com/lvjonok/skydio_x2_description/blob/master/urdf/skydio_x2.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Educational
 
-| Name | Formats | License | Meshes | Inertias | Collisions |
-|------|---------|---------|--------|----------|------------|
+| Name | Formats | License | Visuals | Inertias | Collisions |
+|------|---------|---------|---------|----------|------------|
 | Double Pendulum | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | FingerEdu | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Simple Humanoid | [URDF](https://github.com/laas/simple_humanoid_description) | BSD-2-Clause | ✔️ | ✔️ | ✖️ |
@@ -91,8 +91,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### End Effectors
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Ability Hand | PSYONIC, Inc. | [MJCF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF/mujoco), [URDF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF) | ✖️ | ✔️ | ✔️ | ✖️ |
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
@@ -109,8 +109,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Mobile Manipulators
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Eve R3 | Halodi | [URDF](https://github.com/Halodi/halodi-robot-models) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Fetch | Fetch Robotics | [URDF](https://github.com/openai/roboschool/tree/master/roboschool/models_robot/fetch_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Ginger | Paaila Technology | [URDF](https://github.com/Rayckey/GingerURDF) | BSD | ✔️ | ✔️ | ✔️ |
@@ -126,8 +126,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Humanoids
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Atlas DRC (v3) | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/models/blob/master/atlas/atlas_convex_hull.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Atlas v4 | Boston Dynamics | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl) | ✖️ | ✔️ | ✔️ | ✔️ |
@@ -149,8 +149,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Quadrupeds
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | A1 | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/a1/xml), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description) | MPL-2.0 | ✔️ | ✔️ | ✔️ |
 | Aliengo | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/aliengo/xml), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | MPL-2.0 | ✔️ | ✔️ | ✔️ |
 | ANYmal B | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_b), [URDF](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
@@ -171,8 +171,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ### Wheeled
 
-| Name | Maker | Formats | License | Meshes | Inertias | Collisions |
-|------|-------|---------|---------|--------|----------|------------|
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
 | Boxer | Clearpath Robotics | [Xacro](https://github.com/boxer-cpr/boxer/tree/noetic-devel/boxer_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Dingo | Clearpath Robotics | [Xacro](https://github.com/dingo-cpr/dingo/tree/melodic-devel/dingo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Husky | Clearpath Robotics | [Xacro](https://github.com/husky/husky/tree/noetic-devel/husky_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
