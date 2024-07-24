@@ -27,15 +27,15 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 |------|-------|---------|---------|---------|----------|------------|
 | e.DO | Comau | [URDF](https://github.com/Comau/eDO_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | FR3 | Franka Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/franka_fr3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Gen2 (URDF) | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Gen3 (MJCF) | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
-| Gen3 (URDF) | Kinova | [URDF](https://github.com/facebookresearch/differentiable-robot-model/tree/main/diff_robot_data/kinova_description) | MIT | ✔️ | ✔️ | ✔️ |
+| Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Gen3 | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
+| Gen3 | Kinova | [URDF](https://github.com/facebookresearch/differentiable-robot-model/tree/main/diff_robot_data/kinova_description) | MIT | ✔️ | ✔️ | ✔️ |
 | iiwa 7 | KUKA | [URDF](https://github.com/facebookresearch/differentiable-robot-model/blob/main/diff_robot_data/kuka_iiwa/urdf) | MIT | ✔️ | ✔️ | ✔️ |
 | iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/models/tree/master/iiwa_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kuka_iiwa_14) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Lite 6 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/lite6/lite6.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/ufactory_lite6) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | M-710iC | FANUC | [URDF](https://github.com/robot-descriptions/fanuc_m710ic_description), [Xacro](https://github.com/ros-industrial/fanuc/tree/melodic-devel/fanuc_m710ic_support) | BSD-3-Clause | ✔️ | ✖️ | ✔️ |
-| Panda (MJCF) | Franka Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Panda (URDF) | Franka Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description), [Xacro](https://github.com/frankaemika/franka_ros/tree/develop/franka_description) | Apache-2.0 | ✔️ | ✖️ | ✔️ |
+| Panda | Franka Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Panda | Franka Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description), [Xacro](https://github.com/frankaemika/franka_ros/tree/develop/franka_description) | Apache-2.0 | ✔️ | ✖️ | ✔️ |
 | Poppy Ergo Jr | Poppy Project | [URDF](https://github.com/poppy-project/poppy_ergo_jr_description) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/rethink_robotics_sawyer) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | UR10 | Universal Robots | [URDF](https://github.com/Gepetto/example-robot-data/blob/master/robots/ur_description/urdf/ur10_robot.urdf), [Xacro](https://github.com/ros-industrial/universal_robot/blob/kinetic-devel/ur_description/urdf/ur10.urdf.xacro) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
@@ -55,8 +55,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Cassie (MJCF) | Agility Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
-| Cassie (URDF) | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description) | MIT | ✔️ | ✔️ | ✔️ |
+| Cassie | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description), [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
 | OP3 | Robotis | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotis_op3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | ✖️ | ✔️ | ✖️ | ✔️ |
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
@@ -156,8 +155,9 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Aliengo | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/aliengo/xml), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description) | MPL-2.0 | ✔️ | ✔️ | ✔️ |
 | ANYmal B | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_b), [URDF](https://github.com/ANYbotics/anymal_b_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | ANYmal C | ANYbotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/anybotics_anymal_c), [URDF](https://github.com/ANYbotics/anymal_c_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Barkour v0 (MJCF) | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_v0/barkour_v0.xml) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Barkour v0 (URDF) | Google | [URDF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_v0/barkour_v0.urdf) | Apache-2.0 | ✔️ | ✖️  | ✔️ |
+| ANYmal D | ANYbotics | [URDF](https://github.com/ANYbotics/anymal_d_simple_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Barkour v0 | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_v0/barkour_v0.xml) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Barkour v0 | Google | [URDF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_v0/barkour_v0.urdf) | Apache-2.0 | ✔️ | ✖️  | ✔️ |
 | Barkour vb | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_vb/barkour_vb.xml), [URDF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_barkour_vb/barkour_vb_rev_1_0_head_straight.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Go1 | UNITREE Robotics | [MJCF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/go1/xml), [URDF](https://github.com/unitreerobotics/unitree_mujoco/tree/main/data/go1/urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Go2 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_go2), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/go2_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
