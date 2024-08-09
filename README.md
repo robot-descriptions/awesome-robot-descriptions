@@ -57,7 +57,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Cassie | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description), [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
 | OP3 | Robotis | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotis_op3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | ✖️ | ✔️ | ✖️ | ✔️ |
+| Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | MIT | ✔️ | ✖️ | ✔️ |
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Upkie | Stéphane Caron | [URDF](https://github.com/upkie/upkie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
