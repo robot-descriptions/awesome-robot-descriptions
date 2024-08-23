@@ -49,7 +49,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | xArm5 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/xarm5/xarm5.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | xArm6 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/xarm6/xarm6.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | xArm7 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/xarm7/xarm7.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/ufactory_xarm7) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Z1 | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/z1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Z1 | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/blob/master/robots/z1_description/xacro/z1.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
 
 ### Bipeds
