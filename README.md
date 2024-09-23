@@ -146,7 +146,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Robonaut 2 | NASA JSC Robotics | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/r2_description) | NASA-1.3 | ✔️ | ✔️ | ✔️ |
 | Romeo | Aldebaran Robotics | [URDF](https://github.com/ros-aldebaran/romeo_robot/tree/master/romeo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | SigmaBan | Rhoban | [URDF](https://github.com/Rhoban/sigmaban_urdf) | MIT | ✔️ | ✔️ | ✔️ |
-| TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data), [Xacro](https://github.com/pal-robotics/talos_robot/tree/kinetic-devel/talos_description) | LGPL-3.0, Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data), [Xacro](https://github.com/pal-robotics/talos_robot/tree/kinetic-devel/talos_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos) | LGPL-3.0, Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Valkyrie | NASA JSC Robotics | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/val_description/model), [Xacro](https://gitlab.com/nasa-jsc-robotics/val_description) | NASA-1.3 | ✔️ | ✔️ | ✔️ |
 | WALK-MAN | IIT | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 
