@@ -83,6 +83,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Crazyflie 1.0 | Bitcraze | [Xacro](https://github.com/whoenig/crazyflie_ros/tree/master/crazyflie_description) | MIT | ✔️ | ✔️ | ✖️ |
 | Crazyflie 2.0 | Bitcraze | [URDF](https://github.com/utiasDSL/gym-pybullet-drones/tree/master/gym_pybullet_drones/assets), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/bitcraze_crazyflie_2) | MIT | ✔️ | ✔️ | ✔️ |
 | X2 | Skydio | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/skydio_x2), [URDF](https://github.com/lvjonok/skydio_x2_description/blob/master/urdf/skydio_x2.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Ingenuity | NASA JPL | [URDF](https://github.com/david-dorf/perseverance-ingenuity-urdfs/tree/main/ingenuity) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Educational
 
@@ -129,6 +130,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Stretch 3 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch_3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Stretch RE1 | Hello Robot | [URDF](https://github.com/robot-descriptions/stretch_description), [Xacro](https://github.com/hello-robot/stretch_ros/tree/master/stretch_description) | CC-BY-NC-SA-4.0 | ✔️ | ✔️ | ✔️ |
 | TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago), [Xacro](https://github.com/pal-robotics/tiago_robot/blob/kinetic-devel/tiago_description/robots/tiago.urdf.xacro) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Perseverance | NASA JPL | [URDF](https://github.com/david-dorf/perseverance-ingenuity-urdfs/tree/main/perseverance) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
 
