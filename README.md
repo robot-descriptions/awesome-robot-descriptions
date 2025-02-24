@@ -37,6 +37,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | M-710iC | FANUC | [URDF](https://github.com/robot-descriptions/fanuc_m710ic_description), [Xacro](https://github.com/ros-industrial/fanuc/tree/melodic-devel/fanuc_m710ic_support) | BSD-3-Clause | ✔️ | ✖️ | ✔️ |
 | Panda | Franka Robotics | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/franka_emika_panda) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Panda | Franka Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/panda_description), [Xacro](https://github.com/frankaemika/franka_ros/tree/develop/franka_description) | Apache-2.0 | ✔️ | ✖️ | ✔️ |
+| PiPER | AgileX | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/agilex_piper), [URDF](https://github.com/agilexrobotics/Piper_ros/tree/ros-noetic-no-aloha/src/piper_description/urdf) | MIT | ✔️ | ✔️ | ✔️ |
 | Poppy Ergo Jr | Poppy Project | [URDF](https://github.com/poppy-project/poppy_ergo_jr_description) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
 | Sawyer | Rethink Robotics | [Xacro](https://github.com/RethinkRobotics/sawyer_robot/tree/master/sawyer_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/rethink_robotics_sawyer) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | SO-ARM 100 | The Robot Studio | [URDF](https://github.com/TheRobotStudio/SO-ARM100/blob/main/URDF/SO_5DOF_ARM100_8j_URDF.SLDASM/urdf/SO_5DOF_ARM100_8j_URDF.SLDASM.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
@@ -59,6 +60,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| BD-X | Disney | [URDF](https://github.com/rimim/AWD/blob/main/awd/data/assets/go_bdx/go_bdx.urdf) [MJCF](https://github.com/rimim/AWD/blob/main/awd/data/assets/go_bdx/go_bdx.xml) | NVIDIA License | ✔️ | ✔️ | ✔️ |
 | Cassie | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description), [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
 | OP3 | Robotis | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotis_op3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | MIT | ✔️ | ✖️ | ✔️ |
@@ -181,7 +183,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Pupper v3 | Gabrael Levine | [URDF](https://github.com/G-Levine/pupper_v3_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Solo | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Spot | Boston Dynamics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/boston_dynamics_spot) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Spot | Boston Dynamics | [Xacro](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | ✔️ | ✖️ | ✔️ |
+| Spot | Boston Dynamics | [Xacro](https://github.com/bdaiinstitute/spot_description) | MIT | ✔️ | ✔️ | ✔️ |
 
 ### Wheeled
 
