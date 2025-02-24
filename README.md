@@ -180,7 +180,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Pupper v3 | Gabrael Levine | [URDF](https://github.com/G-Levine/pupper_v3_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Solo | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/solo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Spot | Boston Dynamics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/boston_dynamics_spot) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Spot | Boston Dynamics | [Xacro](https://github.com/clearpathrobotics/spot_ros/tree/master/spot_description) | ✖️ | ✔️ | ✖️ | ✔️ |
+| Spot | Boston Dynamics | [Xacro](https://github.com/bdaiinstitute/spot_description) | MIT | ✔️ | ✔️ | ✔️ |
 
 ### Wheeled
 
