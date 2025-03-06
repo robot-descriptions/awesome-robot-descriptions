@@ -194,7 +194,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Husky | Clearpath Robotics | [Xacro](https://github.com/husky/husky/tree/noetic-devel/husky_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Jackal | Clearpath Robotics | [Xacro](https://github.com/jackal/jackal/tree/noetic-devel/jackal_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback/tree/melodic-devel/ridgeback_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| RSK omnidirectional | [Robot Soccer Kit](https://robot-soccer-kit.github.io/) | [URDF](https://github.com/Rhoban/onshape-to-robot-examples/tree/master/rsk_urdf) | ? | ✔️ | ✖️  | ✔️ |
+| RSK omnidirectional | [Robot Soccer Kit](https://robot-soccer-kit.github.io/) | [URDF](https://github.com/Rhoban/onshape-to-robot-examples/tree/master/rsk_urdf) | MIT | ✔️ | ✔️ | ✔️ |
 
 ## Gallery
 
