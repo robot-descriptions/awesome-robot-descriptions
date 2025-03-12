@@ -19,6 +19,7 @@ Use the following columns for the row of a description: ``| ROBOT-NAME | ROBOT-M
     2. Contains only the description (rather than a bigger project).
     3. Is the original source (rather than a fork).
 * License: report the [SPDX identifier](https://spdx.org/licenses/) of the description license.
+    * Ideally, add a permalink to the license file in the corresponding repository.
 * Check the [meshes](#meshes), [inertias](#inertias) and [collisions](#collisions).
 
 Every link and contribution, no matter how large or small, is highly appreciated and encouraged, as it helps us maintain a common repository of useful robot descriptions.
