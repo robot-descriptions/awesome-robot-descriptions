@@ -147,6 +147,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Berkeley Humanoid | Hybrid Robotics | [URDF](https://github.com/HybridRobotics/berkeley_humanoid_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Draco3 | Apptronik | [URDF](https://github.com/shbang91/draco3_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
+| Elf2 | BXI Robotics | [MJCF](https://github.com/bxirobotics/robot_models/tree/main/elf2_dof25/xml), [URDF](https://github.com/bxirobotics/robot_models/tree/main/elf2_dof25/urdf) | Apache-2.0   | ✔️ | ✔️ | ✔️ |
 | ergoCub | IIT | [URDF](https://github.com/icub-tech-iit/ergocub-software/tree/master/urdf/ergoCub) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_g1), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gundam RX-78 | Bandai Namco Filmworks | [URDF](https://github.com/gundam-global-challenge/gundam_robot/tree/master/gundam_rx78_description) | ✖️  | ✔️ | ✔️ | ✔️ |
@@ -209,7 +210,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | <img src="gallery/atlas_drc.png" alt="Atlas DRC (v3)" width=100> | <img src="gallery/atlas_v4.png" alt="Atlas v4" width=100> | <img src="gallery/jvrc1.png" alt="JVRC-1" width=100> | <img src="gallery/r2.png" alt="Robonaut 2" width=100> | <img src="gallery/romeo.png" alt="Romeo" width=100> |
 | <img src="gallery/icub.png" alt="iCub" width=100> | <img src="gallery/draco3.png" alt="Draco3" width=100> | <img src="gallery/valkyrie.png" alt="Valkyrie" width=100> | <img src="gallery/jaxon.png" alt="JAXON" width=100> | <img src="gallery/sigmaban.png" alt="SigmaBan" width=100> |
 | <img src="gallery/a1.png" alt="A1" width=100> | <img src="gallery/anymal_b.png" alt="ANYmal B" width=100> | <img src="gallery/anymal_c.png" alt="ANYmal C" width=100> | <img src="gallery/mini_cheetah.png" alt="Mini Cheetah" width=100> | <img src="gallery/solo.png" alt="Solo" width=100> |
-| <img src="gallery/rsk.png" alt="Robot Soccer Kit" width=100> | <img src="gallery/med7.png" alt="Med 7" width=100> | <img src="gallery/med14.png" alt="Med 14" width=100> | | |
+| <img src="gallery/rsk.png" alt="Robot Soccer Kit" width=100> | <img src="gallery/med7.png" alt="Med 7" width=100> | <img src="gallery/med14.png" alt="Med 14" width=100> | <img src="gallery/elf2.png" alt="Med 14" width=100> | | |
 
 ## Related Awesome Lists
 
