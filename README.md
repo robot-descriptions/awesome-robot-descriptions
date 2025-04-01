@@ -128,6 +128,10 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Google Robot | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_robot/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Pepper | SoftBank Robotics | [URDF](https://github.com/jrl-umi3218/pepper_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | PR2 | Willow Garage | [URDF](https://github.com/ankurhanda/robot-assets/tree/master/urdfs/robots/pr2), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | ✔️ | ✔️ | ✔️ |
+| RB-ROBOUT+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbrobout/rbrobout_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-KAIROS+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbkairos/rbkairos_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-SUMMIT+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbsummit/rbsummit_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-VOGUI+  | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbvogui/rbvogui_plus.urdf.xacro)   | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Reachy | Pollen Robotics | [URDF](https://github.com/aubrune/reachy_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback_manipulation/tree/melodic-devel/ridgeback_manipulation_description) | BSD | ✔️ | ✔️ | ✔️ |
 | Stretch 2 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch) | Clear BSD | ✔️ | ✔️ | ✔️ |
@@ -196,6 +200,11 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Dingo | Clearpath Robotics | [Xacro](https://github.com/dingo-cpr/dingo/tree/melodic-devel/dingo_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Husky | Clearpath Robotics | [Xacro](https://github.com/husky/husky/tree/noetic-devel/husky_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Jackal | Clearpath Robotics | [Xacro](https://github.com/jackal/jackal/tree/noetic-devel/jackal_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-ROBOUT | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbrobout/rbrobout.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-KAIROS | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbkairos/rbkairos.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-SUMMIT | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbsummit/rbsummit.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-THERON | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbtheron/rbtheron.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-VOGUI  | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/ros2-devel/robots/rbvogui/rbvogui.urdf.xacro)   | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback/tree/melodic-devel/ridgeback_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | RSK omnidirectional | [Robot Soccer Kit](https://robot-soccer-kit.github.io/) | [URDF](https://github.com/Rhoban/onshape-to-robot-examples/tree/master/rsk_urdf) | MIT | ✔️ | ✔️ | ✔️ |
 
