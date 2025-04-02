@@ -220,8 +220,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | <img src="gallery/icub.png" alt="iCub" width=100> | <img src="gallery/draco3.png" alt="Draco3" width=100> | <img src="gallery/valkyrie.png" alt="Valkyrie" width=100> | <img src="gallery/jaxon.png" alt="JAXON" width=100> | <img src="gallery/sigmaban.png" alt="SigmaBan" width=100> |
 | <img src="gallery/a1.png" alt="A1" width=100> | <img src="gallery/anymal_b.png" alt="ANYmal B" width=100> | <img src="gallery/anymal_c.png" alt="ANYmal C" width=100> | <img src="gallery/mini_cheetah.png" alt="Mini Cheetah" width=100> | <img src="gallery/solo.png" alt="Solo" width=100> |
 | <img src="gallery/rsk.png" alt="Robot Soccer Kit" width=100> | <img src="gallery/med7.png" alt="Med 7" width=100> | <img src="gallery/med14.png" alt="Med 14" width=100> | <img src="gallery/elf2.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-robout.png" alt="Med 14" width=100> |
-| <img src="gallery/robotnik/rb-kairos.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-summit-xl.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-theron.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-vogui.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-robout-plus.png" alt="Med 14" width=100> |
-| <img src="gallery/robotnik/rb-kairos-plus.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-summit-plus.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-theron-plus.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-vogui-plus.png" alt="Med 14" width=100> | |
+| <img src="gallery/robotnik/rb-kairos.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-summit-xl.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-theron.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-vogui.png" alt="Med 14" width=100> | <img src="gallery/robotnik/rb-kairos-plus.png" alt="Med 14" width=100> |
 
 ## Related Awesome Lists
 
