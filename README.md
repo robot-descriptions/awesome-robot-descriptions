@@ -28,15 +28,15 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | e.DO | Comau | [URDF](https://github.com/ianathompson/eDO_description) | [BSD-3-Clause](https://github.com/ianathompson/eDO_description/blob/17b3f92f834746106d6a4befaab8eeab3ac248e6/LICENSE) | ✔️ | ✔️ | ✔️ |
 | FR3 | Franka Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/franka_fr3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Gen3 Lite | Kinova | [URDF](https://github.com/Kinovarobotics/ros2_kortex/blob/main/kortex_description/robots/gen3_lite.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 | Kinova | [URDF](https://github.com/Kinovarobotics/ros_kortex/blob/noetic-devel/kortex_description/robots/gen3.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Gen3 Lite | Kinova | [URDF](https://github.com/Kinovarobotics/ros2_kortex/blob/main/kortex_description/robots/gen3_lite.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 | Kinova | [Xacro](https://github.com/Kinovarobotics/ros2_kortex/blob/main/kortex_description/robots/gen3.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | iiwa 14 | KUKA | [URDF](https://github.com/RobotLocomotion/models/tree/master/iiwa_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/kuka_iiwa_14) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | iiwa 7 | KUKA | [URDF](https://github.com/facebookresearch/differentiable-robot-model/blob/main/diff_robot_data/kuka_iiwa/urdf) | MIT | ✔️ | ✔️ | ✔️ |
+| Koch v1.1 | Alexander Koch | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/low_cost_robot_arm) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Koch v1.1 | Alexander Koch | [URDF](https://github.com/s1lent4gnt/koch-v1-1/blob/cc1a4eb9b27978b6bc3bb34f12fa5a7d229f1fde/simulation/follower.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Lite 6 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/lite6/lite6.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/ufactory_lite6) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Low-Cost Robot Arm | Alexander Koch | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/low_cost_robot_arm) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Low-Cost Robot Arm | Alexander Koch | [URDF](https://github.com/tc-huang/low_cost_robot/tree/6c42a82763c2ff056832b87314324b88faf51b61/ros2_ws/src/low_cost_robot_description) | MIT | ✔️ | ✔️ | ✔️ |
 | M-710iC | FANUC | [URDF](https://github.com/robot-descriptions/fanuc_m710ic_description), [Xacro](https://github.com/ros-industrial/fanuc/tree/melodic-devel/fanuc_m710ic_support) | BSD-3-Clause | ✔️ | ✖️ | ✔️ |
 | Med 14 | KUKA | [Xacro](https://github.com/lbr-stack/lbr_fri_ros2_stack/tree/rolling/lbr_description/urdf/med14) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
