@@ -148,6 +148,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
+| Adam Lite | PNDbotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pndbotics_adam_lite) | MIT | ✔️ | ✔️ | ✔️ |
 | Apollo | Apptronik | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/apptronik_apollo) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | AgiBot X1 | AgibotTech | [MJCF](https://github.com/AgibotTech/agibot_x1_train/tree/main/resources/robots/x1/mjcf), [URDF](https://github.com/AgibotTech/agibot_x1_train/tree/main/resources/robots/x1/urdf) | ✖️  | ✔️ | ✔️ | ✖️ |
 | Atlas DRC (v3) | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/models/blob/master/atlas/atlas_convex_hull.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
