@@ -110,6 +110,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
 | DexHand | The Robot Studio | [URDF](https://github.com/iotdesignshop/dexhand_description/tree/main/urdf) | CC-BY-NC-SA | ✔️ | ✔️ | ✔️ |
+| IIT SoftFoot | IIT | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/iit_softfoot) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | LEAP Hand v1 | Carnegie Mellon University | [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/blob/150bc3d4b61fd6619193ba5a8ef209f3609ced89/assets/leap_hand/robot.urdf) | MIT | ✔️ | ✔️ | ✔️ |
 | Robotiq 2F-85 | Robotiq | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/robotiq_2f85), [URDF](https://github.com/a-price/robotiq_arg85_description), [Xacro](https://github.com/ros-industrial/robotiq/tree/kinetic-devel/robotiq_2f_85_gripper_visualization) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | SCHUNK EGP | SCHUNK | [Xacro](https://github.com/SCHUNK-SE-Co-KG/schunk_description/blob/f88f51309a1d3879a90fe2623bc153c0af835675/egp_description/urdf/egp.xacro) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
