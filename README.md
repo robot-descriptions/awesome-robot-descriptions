@@ -98,6 +98,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Name | Formats | License | Visuals | Inertias | Collisions |
 |------|---------|---------|---------|----------|------------|
 | Double Pendulum | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/double_pendulum_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Dynamixel 2R arm | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/dynamixel_2r) | MIT | ✔️ | ✔️ | ✔️ |
 | FingerEdu | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/finger_edu_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Simple Humanoid | [URDF](https://github.com/laas/simple_humanoid_description) | BSD-2-Clause | ✔️ | ✔️ | ✖️ |
 | TriFingerEdu | [URDF](https://github.com/facebookresearch/differentiable-robot-model/tree/main/diff_robot_data/trifinger_edu_description) | MIT | ✔️ | ✔️ | ✔️ |
