@@ -11,8 +11,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
   - [Drones](#drones)
   - [Educational](#educational)
   - [End Effectors](#end-effectors)
-  - [Mobile Manipulators](#mobile-manipulators)
   - [Humanoids](#humanoids)
+  - [Mobile Manipulators](#mobile-manipulators)
   - [Quadrupeds](#quadrupeds)
   - [Wheeled](#wheeled)
 - [Gallery](#gallery)
@@ -124,27 +124,6 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Shadow Hand E3M5 | The Shadow Robot Company | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/shadow_hand) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | UMI Gripper | UMI project | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/umi_gripper) | MIT | ✔️ | ✔️ | ✔️ |
 
-### Mobile Manipulators
-
-| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
-|------|-------|---------|---------|---------|----------|------------|
-| Eve R3 | Halodi | [URDF](https://github.com/Halodi/halodi-robot-models) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Fetch | Fetch Robotics | [URDF](https://github.com/openai/roboschool/tree/master/roboschool/models_robot/fetch_description) | MIT | ✔️ | ✔️ | ✔️ |
-| Ginger | Paaila Technology | [URDF](https://github.com/Rayckey/GingerURDF) | BSD | ✔️ | ✔️ | ✔️ |
-| Google Robot | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_robot/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Pepper | SoftBank Robotics | [URDF](https://github.com/jrl-umi3218/pepper_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
-| PR2 | Willow Garage | [URDF](https://github.com/ankurhanda/robot-assets/tree/master/urdfs/robots/pr2), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | ✔️ | ✔️ | ✔️ |
-| RB-ROBOUT+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbrobout/rbrobout_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| RB-KAIROS+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbkairos/rbkairos_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| RB-VOGUI+  | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbvogui/rbvogui_plus.urdf.xacro)   | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
-| Reachy | Pollen Robotics | [URDF](https://github.com/aubrune/reachy_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback_manipulation/tree/melodic-devel/ridgeback_manipulation_description) | BSD | ✔️ | ✔️ | ✔️ |
-| Stretch 2 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch) | Clear BSD | ✔️ | ✔️ | ✔️ |
-| Stretch 3 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch_3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Stretch RE1 | Hello Robot | [URDF](https://github.com/robot-descriptions/stretch_description), [Xacro](https://github.com/hello-robot/stretch_ros/tree/master/stretch_description) | CC-BY-NC-SA-4.0 | ✔️ | ✔️ | ✔️ |
-| TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago), [Xacro](https://github.com/pal-robotics/tiago_robot/blob/kinetic-devel/tiago_description/robots/tiago.urdf.xacro) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Perseverance | NASA JPL | [URDF](https://github.com/david-dorf/perseverance-ingenuity-urdfs/tree/main/perseverance) | Apache-2.0 | ✔️ | ✖️ | ✖️ |
-
 ### Humanoids
 
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
@@ -172,6 +151,27 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | TALOS | PAL Robotics | [URDF](https://github.com/stack-of-tasks/talos-data), [Xacro](https://github.com/pal-robotics/talos_robot/tree/kinetic-devel/talos_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_talos) | LGPL-3.0, Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Valkyrie | NASA JSC Robotics | [URDF](https://github.com/gkjohnson/nasa-urdf-robots/tree/master/val_description/model), [Xacro](https://gitlab.com/nasa-jsc-robotics/val_description) | NASA-1.3 | ✔️ | ✔️ | ✔️ |
 | WALK-MAN | IIT | [Xacro](https://github.com/ADVRHumanoids/iit-walkman-ros-pkg/tree/master/walkman_urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+
+### Mobile Manipulators
+
+| Name | Maker | Formats | License | Visuals | Inertias | Collisions |
+|------|-------|---------|---------|---------|----------|------------|
+| Eve R3 | Halodi | [URDF](https://github.com/Halodi/halodi-robot-models) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Fetch | Fetch Robotics | [URDF](https://github.com/openai/roboschool/tree/master/roboschool/models_robot/fetch_description) | MIT | ✔️ | ✔️ | ✔️ |
+| Ginger | Paaila Technology | [URDF](https://github.com/Rayckey/GingerURDF) | BSD | ✔️ | ✔️ | ✔️ |
+| Google Robot | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_robot/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Pepper | SoftBank Robotics | [URDF](https://github.com/jrl-umi3218/pepper_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
+| PR2 | Willow Garage | [URDF](https://github.com/ankurhanda/robot-assets/tree/master/urdfs/robots/pr2), [Xacro](https://github.com/PR2/pr2_common/blob/melodic-devel/pr2_description/urdf/common.xacro) | BSD | ✔️ | ✔️ | ✔️ |
+| RB-ROBOUT+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbrobout/rbrobout_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-KAIROS+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbkairos/rbkairos_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RB-VOGUI+  | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbvogui/rbvogui_plus.urdf.xacro)   | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Reachy | Pollen Robotics | [URDF](https://github.com/aubrune/reachy_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback_manipulation/tree/melodic-devel/ridgeback_manipulation_description) | BSD | ✔️ | ✔️ | ✔️ |
+| Stretch 2 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch) | Clear BSD | ✔️ | ✔️ | ✔️ |
+| Stretch 3 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch_3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Stretch RE1 | Hello Robot | [URDF](https://github.com/robot-descriptions/stretch_description), [Xacro](https://github.com/hello-robot/stretch_ros/tree/master/stretch_description) | CC-BY-NC-SA-4.0 | ✔️ | ✔️ | ✔️ |
+| TIAGo | PAL Robotics | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/tiago_description), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pal_tiago), [Xacro](https://github.com/pal-robotics/tiago_robot/blob/kinetic-devel/tiago_description/robots/tiago.urdf.xacro) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Perseverance | NASA JPL | [URDF](https://github.com/david-dorf/perseverance-ingenuity-urdfs/tree/main/perseverance) | Apache-2.0 | ✔️ | ✖️ | ✖️ |
 
 ### Quadrupeds
 
