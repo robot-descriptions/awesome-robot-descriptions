@@ -213,6 +213,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | RB-THERON | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbtheron/rbtheron.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | RB-VOGUI  | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbvogui/rbvogui.urdf.xacro)   | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback/tree/melodic-devel/ridgeback_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| RSK omnidirectional | Robot Soccer Kit | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robot_soccer_kit) | MIT | ✔️ | ✔️ | ✔️ |
 | RSK omnidirectional | [Robot Soccer Kit](https://robot-soccer-kit.github.io/) | [URDF](https://github.com/Rhoban/onshape-to-robot-examples/tree/master/rsk_urdf) | MIT | ✔️ | ✔️ | ✔️ |
 
 ## Gallery
