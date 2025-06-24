@@ -129,12 +129,13 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
 | Adam Lite | PNDbotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/pndbotics_adam_lite) | MIT | ✔️ | ✔️ | ✔️ |
-| Apollo | Apptronik | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/apptronik_apollo) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | AgiBot X1 | AgibotTech | [MJCF](https://github.com/AgibotTech/agibot_x1_train/tree/main/resources/robots/x1/mjcf), [URDF](https://github.com/AgibotTech/agibot_x1_train/tree/main/resources/robots/x1/urdf) | ✖️  | ✔️ | ✔️ | ✖️ |
+| Apollo | Apptronik | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/apptronik_apollo) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Atlas DRC (v3) | Boston Dynamics | [URDF](https://github.com/RobotLocomotion/models/blob/master/atlas/atlas_convex_hull.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Atlas v4 | Boston Dynamics | [URDF](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot/atlas_description) | MIT | ✔️ | ✔️ | ✔️ |
-| Booster T1 | Booster Robotics | [URDF](https://github.com/BoosterRobotics/booster_gym/tree/main/resources/T1) | Apache-2.0 | ✔️ | ✔️ | ✔️ | 
 | Berkeley Humanoid | Hybrid Robotics | [URDF](https://github.com/HybridRobotics/berkeley_humanoid_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| Booster T1 | Booster Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/booster_t1) | Apache-2.0 | ✔️ | ✔️ | ✔️ | 
+| Booster T1 | Booster Robotics | [URDF](https://github.com/BoosterRobotics/booster_gym/tree/main/resources/T1) | Apache-2.0 | ✔️ | ✔️ | ✔️ | 
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Draco3 | Apptronik | [URDF](https://github.com/shbang91/draco3_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
 | Elf2 | BXI Robotics | [MJCF](https://github.com/bxirobotics/robot_models/tree/main/elf2_dof25/xml), [URDF](https://github.com/bxirobotics/robot_models/tree/main/elf2_dof25/urdf) | Apache-2.0   | ✔️ | ✔️ | ✔️ |
