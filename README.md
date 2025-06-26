@@ -141,6 +141,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Elf2 | BXI Robotics | [MJCF](https://github.com/bxirobotics/robot_models/tree/main/elf2_dof25/xml), [URDF](https://github.com/bxirobotics/robot_models/tree/main/elf2_dof25/urdf) | Apache-2.0   | ✔️ | ✔️ | ✔️ |
 | ergoCub | IIT | [URDF](https://github.com/icub-tech-iit/ergocub-software/tree/master/urdf/ergoCub) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | G1 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_g1), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| GR-1 | Fourier | [URDF](https://github.com/FFTAI/Wiki-GRx-Models/tree/master/GRX/GR1) | [GPL-3.0](https://github.com/FFTAI/Wiki-GRx-Models/blob/351245ac8fa4bf6f4b0c41556e1e6976a438bcef/LICENSE) | ✔️ | ✔️ | ✔️ |
 | Gundam RX-78 | Bandai Namco Filmworks | [URDF](https://github.com/gundam-global-challenge/gundam_robot/tree/master/gundam_rx78_description) | ✖️  | ✔️ | ✔️ | ✔️ |
 | H1 | UNITREE Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/unitree_h1), [URDF](https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | iCub | IIT | [URDF](https://github.com/robotology/icub-models/tree/master/iCub) | CC-BY-SA-4.0 | ✔️ | ✔️ | ✔️ |
