@@ -219,6 +219,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback/tree/melodic-devel/ridgeback_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | RSK omnidirectional | Robot Soccer Kit | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robot_soccer_kit) | MIT | ✔️ | ✔️ | ✔️ |
 | RSK omnidirectional | [Robot Soccer Kit](https://robot-soccer-kit.github.io/) | [URDF](https://github.com/Rhoban/onshape-to-robot-examples/tree/master/rsk_urdf) | MIT | ✔️ | ✔️ | ✔️ |
+| WL P311D | LimX Dynamics | [URDF](https://github.com/limxdynamics/robot-description/tree/master/wheellegged/WL_P311D) | [Apache-2.0](https://github.com/limxdynamics/robot-description/blob/a097533372a08298d45af391cbdfc2fd2dc3da6f/LICENSE) | ✔️ | ✔️ | ✔️ |
+| WL P311E | LimX Dynamics | [URDF](https://github.com/limxdynamics/robot-description/tree/master/wheellegged/WL_P311E) | [Apache-2.0](https://github.com/limxdynamics/robot-description/blob/a097533372a08298d45af391cbdfc2fd2dc3da6f/LICENSE) | ✔️ | ✔️ | ✔️ |
 
 ## Gallery
 
