@@ -109,6 +109,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
 | Ability Hand | PSYONIC, Inc. | [MJCF](https://github.com/psyonicinc/ability-hand-api/tree/master/python/ah_simulators/mujoco_xml), [URDF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF) | [MIT](https://github.com/psyonicinc/ability-hand-api/blob/d82ca9db87fab43ac4cdd4b5144ea1080b51bab6/LICENSE) | ✔️ | ✔️ | ✔️ |
+| Aero Hand | TetherIA | [URDF](https://github.com/TetherIA/aero-hand-open/blob/0855379781311731c4ab555ee1b8f374ec7a118d/ros2/src/aero_hand_open_description/urdf/aero_hand_open_left.urdf) | CC-BY-NC-SA 4.0 | ✔️ | ✔️ | ✔️ |
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
 | DexHand | The Robot Studio | [URDF](https://github.com/iotdesignshop/dexhand_description/tree/main/urdf) | CC-BY-NC-SA | ✔️ | ✔️ | ✔️ |
