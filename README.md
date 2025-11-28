@@ -56,6 +56,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | ViperX 300 | Trossen Robotics | [Xacro](https://github.com/Interbotix/interbotix_ros_manipulators/blob/main/interbotix_ros_xsarms/interbotix_xsarm_descriptions/urdf/vx300s.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/trossen_vx300s) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | WidowX 250 | Trossen Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/trossen_wx250s) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | xArm5 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/xarm5/xarm5.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
+| xArm6 | UFACTORY | [URDF](https://github.com/zxzm-zak/FastUMI_Data/blob/16bb1a966994fbf27fb7985f404d134d24b44f30/assets/xarm6_robot.urdf) | MIT | ✔️ | ✔️ | ✔️ |
 | xArm6 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/xarm6/xarm6.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | xArm7 | UFACTORY | [Xacro](https://github.com/xArm-Developer/xarm_ros2/blob/master/xarm_description/urdf/xarm7/xarm7.urdf.xacro), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/ufactory_xarm7) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Z1 | UNITREE Robotics | [URDF](https://github.com/unitreerobotics/unitree_ros/blob/master/robots/z1_description/xacro/z1.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
