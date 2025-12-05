@@ -27,6 +27,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 |------|-------|---------|---------|---------|----------|------------|
 | e.DO | Comau | [URDF](https://github.com/ianathompson/eDO_description) | [BSD-3-Clause](https://github.com/ianathompson/eDO_description/blob/17b3f92f834746106d6a4befaab8eeab3ac248e6/LICENSE) | ✔️ | ✔️ | ✔️ |
 | FR3 | Franka Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/franka_fr3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| FR3 v2 | Franka Robotics | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/franka_fr3_v2) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Gen2 | Kinova | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/kinova_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 Lite | Kinova | [URDF](https://github.com/Kinovarobotics/ros2_kortex/blob/main/kortex_description/robots/gen3_lite.urdf) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Gen3 | Kinova | [MJCF](https://github.com/mathieu-celerier/kinova_mj_description) | BSD-2-Clause | ✔️ | ✔️ | ✔️ |
