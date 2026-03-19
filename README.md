@@ -118,6 +118,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Aero Hand | TetherIA | [URDF](https://github.com/TetherIA/aero-hand-open/blob/0855379781311731c4ab555ee1b8f374ec7a118d/ros2/src/aero_hand_open_description/urdf/aero_hand_open_left.urdf) | [Apache-2.0](https://github.com/google-deepmind/mujoco_menagerie/pull/213/commits/6d88dc56029eec7f92e530e1c16283a4b53166e8) | ✔️ | ✔️ | ✔️ |
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
+| Dagana Gripper | IIT - HHCM | [Xacro](https://github.com/ADVRHumanoids/iit-dagana-ros-pkg/blob/master/dagana_urdf/urdf/dagana_macro.urdf.xacro) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | DexHand | The Robot Studio | [URDF](https://github.com/iotdesignshop/dexhand_description/tree/main/urdf) | CC-BY-NC-SA | ✔️ | ✔️ | ✔️ |
 | IIT SoftFoot | IIT | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/iit_softfoot) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | LEAP Hand v1 | Carnegie Mellon University | [URDF](https://github.com/leap-hand/LEAP_Hand_Sim/blob/150bc3d4b61fd6619193ba5a8ef209f3609ced89/assets/leap_hand/robot.urdf) | MIT | ✔️ | ✔️ | ✔️ |
