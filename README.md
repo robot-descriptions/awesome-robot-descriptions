@@ -73,6 +73,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | BD-X | Disney | [URDF](https://github.com/rimim/AWD/blob/main/awd/data/assets/go_bdx/go_bdx.urdf) [MJCF](https://github.com/rimim/AWD/blob/main/awd/data/assets/go_bdx/go_bdx.xml) | NVIDIA License | ✔️ | ✔️ | ✔️ |
 | Cassie | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description), [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
+| Cookie | Michael Mathieu | [URDF](https://codeberg.org/upkie/cookie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | OP3 | Robotis | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotis_op3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | MIT | ✔️ | ✖️ | ✔️ |
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
@@ -115,7 +116,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 |------|-------|---------|---------|---------|----------|------------|
 | Ability Hand | PSYONIC, Inc. | [MJCF](https://github.com/psyonicinc/ability-hand-api/tree/master/python/ah_simulators/mujoco_xml), [URDF](https://github.com/psyonicinc/ability-hand-api/tree/master/URDF) | [MIT](https://github.com/psyonicinc/ability-hand-api/blob/d82ca9db87fab43ac4cdd4b5144ea1080b51bab6/LICENSE) | ✔️ | ✔️ | ✔️ |
 | Aero Hand | TetherIA | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/tetheria_aero_hand_open) | [Apache-2.0](https://github.com/google-deepmind/mujoco_menagerie/pull/213/commits/6d88dc56029eec7f92e530e1c16283a4b53166e8) | ✔️ | ✔️ | ✔️ |
-| Aero Hand | TetherIA | [URDF](https://github.com/TetherIA/aero-hand-open/blob/0855379781311731c4ab555ee1b8f374ec7a118d/ros2/src/aero_hand_open_description/urdf/aero_hand_open_left.urdf) | [Apache-2.0](https://github.com/google-deepmind/mujoco_menagerie/pull/213/commits/6d88dc56029eec7f92e530e1c16283a4b53166e8) | ✔️ | ✔️ | ✔️ |
+| Aero Hand | TetherIA | [URDF](https://github.com/TetherIA/aero-hand-open/blob/0855379781311731c4ab555ee1b8f374ec7a118d/ros2/src/aero_hand_open_description/urdf/aero_hand_open_left.urdf) | [Apache-2.0](https://github.com/TetherIA/aero-hand-open/blob/0855379781311731c4ab555ee1b8f374ec7a118d/LICENSE.md) | ✔️ | ✔️ | ✔️ |
 | Allegro Hand | Wonik Robotics | [URDF](https://github.com/RobotLocomotion/models/tree/master/allegro_hand_description/urdf), [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/wonik_allegro) | BSD | ✔️ | ✔️ | ✔️ |
 | BarrettHand | Barrett Technology | [URDF](https://github.com/jhu-lcsr-attic/bhand_model/tree/master/robots) | BSD | ✖️ | ✔️ | ✔️ |
 | DexHand | The Robot Studio | [URDF](https://github.com/iotdesignshop/dexhand_description/tree/main/urdf) | CC-BY-NC-SA | ✔️ | ✔️ | ✔️ |
@@ -249,7 +250,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | <img src="gallery/a1.png" alt="A1" width=100> | <img src="gallery/anymal_b.png" alt="ANYmal B" width=100> | <img src="gallery/anymal_c.png" alt="ANYmal C" width=100> | <img src="gallery/mini_cheetah.png" alt="Mini Cheetah" width=100> | <img src="gallery/solo.png" alt="Solo" width=100> |
 | <img src="gallery/rsk.png" alt="Robot Soccer Kit" width=100> | <img src="gallery/med7.png" alt="Med 7" width=100> | <img src="gallery/med14.png" alt="Med 14" width=100> | <img src="gallery/elf2.png" alt="Med 14" width=100> | <img src="gallery/rb-robout.png" alt="Med 14" width=100> |
 | <img src="gallery/rb-kairos.png" alt="Med 14" width=100> | <img src="gallery/rb-summit-xl.png" alt="Med 14" width=100> | <img src="gallery/rb-theron.png" alt="Med 14" width=100> | <img src="gallery/rb-vogui.png" alt="Med 14" width=100> | <img src="gallery/rb-kairos-plus.png" alt="Med 14" width=100> |
-| <img src="gallery/rb-robout-plus.png" alt="Med 14" width=100> | <img src="gallery/rb-vogui-plus.png" alt="Med 14" width=100> | <img src="gallery/toddlerbot.png" alt="ToddlerBot" width=100> | | |
+| <img src="gallery/rb-robout-plus.png" alt="Med 14" width=100> | <img src="gallery/rb-vogui-plus.png" alt="Med 14" width=100> | <img src="gallery/toddlerbot.png" alt="ToddlerBot" width=100> | <img src="gallery/cookie.png" alt="Cookie wheeled biped robot" width=100> | |
 
 ## Related Awesome Lists
 
