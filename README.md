@@ -73,6 +73,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Bolt | ODRI | [URDF](https://github.com/Gepetto/example-robot-data/tree/master/robots/bolt_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | BD-X | Disney | [URDF](https://github.com/rimim/AWD/blob/main/awd/data/assets/go_bdx/go_bdx.urdf) [MJCF](https://github.com/rimim/AWD/blob/main/awd/data/assets/go_bdx/go_bdx.xml) | NVIDIA License | ✔️ | ✔️ | ✔️ |
 | Cassie | Agility Robotics | [URDF](https://github.com/robot-descriptions/cassie_description), [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/agility_cassie) | MIT | ✔️ | ✔️ | ✔️ |
+| Cookie | Michael Mathieu | [URDF](https://codeberg.org/upkie/cookie_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | OP3 | Robotis | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/robotis_op3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Rhea | Gabrael Levine | [URDF](https://github.com/G-Levine/rhea_description) | MIT | ✔️ | ✖️ | ✔️ |
 | Spryped | Benjamin Bokser | [URDF](https://github.com/bbokser/spryped/tree/master/spryped_urdf_rev06) | GPL-3.0 | ✔️ | ✔️ | ✔️ |
