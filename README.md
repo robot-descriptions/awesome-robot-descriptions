@@ -132,6 +132,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | SCHUNK WSG 50 | SCHUNK | [SDF](https://github.com/RobotLocomotion/models/tree/master/wsg_50_description) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Shadow DEX-EE | The Shadow Robot Company | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/shadow_dexee) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Shadow Hand E3M5 | The Shadow Robot Company | [MJCF](https://github.com/deepmind/mujoco_menagerie/tree/main/shadow_hand) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| SO-ARM100/101 Parallel Gripper | Robonine | [Xacro](https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper/tree/main/simulation/so_arm_101_description/urdf) | [GPL-3.0](https://github.com/roboninecom/SO-ARM100-101-Parallel-Gripper/blob/main/LICENSE) | ✔️ | ✔️ | ✔️ |
 | UMI Gripper | UMI project | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/umi_gripper) | MIT | ✔️ | ✔️ | ✔️ |
 
 ### Humanoids
