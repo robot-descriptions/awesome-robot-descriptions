@@ -187,6 +187,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | RB-ROBOUT+ | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbrobout/rbrobout_plus.urdf.xacro) | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | RB-VOGUI+  | Robotnik Automation | [Xacro](https://github.com/RobotnikAutomation/robotnik_description/blob/jazzy-devel/robots/rbvogui/rbvogui_plus.urdf.xacro)   | BSD-3-Clause | ✔️ | ✔️ | ✔️ |
 | Reachy | Pollen Robotics | [URDF](https://github.com/aubrune/reachy_description) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| RBY1 | Rainbow Robotics  | [URDF](https://github.com/uynitsuj/rby1_description/blob/e4c07203aa0a0d1b6b3b39da105cb00a77e2bc72/models/rby1a/urdf/model.urdf) | [MIT](https://github.com/uynitsuj/rby1_description/blob/e4c07203aa0a0d1b6b3b39da105cb00a77e2bc72/LICENSE) | ✔️ | ✔️ | ✔️ |
+| RBY1 | Rainbow Robotics  | [MJCF](https://github.com/uynitsuj/rby1_description/blob/e4c07203aa0a0d1b6b3b39da105cb00a77e2bc72/models/rby1a/mujoco/model.xml) | [MIT](https://github.com/uynitsuj/rby1_description/blob/e4c07203aa0a0d1b6b3b39da105cb00a77e2bc72/LICENSE) | ✔️ | ✔️ | ✔️ |
 | Ridgeback | Clearpath Robotics | [Xacro](https://github.com/ridgeback/ridgeback_manipulation/tree/melodic-devel/ridgeback_manipulation_description) | BSD | ✔️ | ✔️ | ✔️ |
 | Stretch 2 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch) | Clear BSD | ✔️ | ✔️ | ✔️ |
 | Stretch 3 | Hello Robot | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/tree/main/hello_robot_stretch_3) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
