@@ -21,6 +21,8 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 
 ## Robot Descriptions
 
+<!--lint disable double-link-->
+
 ### Arms
 
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
