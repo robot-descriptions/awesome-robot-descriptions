@@ -22,6 +22,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 ## Robot Descriptions
 
 <!-- lint disable double-link -->
+<!-- lint disable table-cell-padding -->
 <!-- lint disable table-pipe-alignment -->
 
 ### Arms
