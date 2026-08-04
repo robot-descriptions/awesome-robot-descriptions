@@ -183,7 +183,7 @@ A curated list of awesome robot descriptions in URDF, Xacro or MJCF formats.
 | Name | Maker | Formats | License | Visuals | Inertias | Collisions |
 |------|-------|---------|---------|---------|----------|------------|
 | BamBot | Tim Qian | [URDF](https://github.com/timqian/bambot/blob/main/website/public/URDFs/bambot_v0.urdf) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
-| Eve R3 | Halodi | [URDF](https://github.com/Halodi/halodi-robot-models) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
+| Eve R3 | Halodi | [URDF](https://github.com/robot-descriptions/halodi-robot-models) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
 | Fetch | Fetch Robotics | [URDF](https://github.com/openai/roboschool/tree/master/roboschool/models_robot/fetch_description) | MIT | ✔️ | ✔️ | ✔️ |
 | Ginger | Paaila Technology | [URDF](https://github.com/Rayckey/GingerURDF) | BSD | ✔️ | ✔️ | ✔️ |
 | Google Robot | Google | [MJCF](https://github.com/google-deepmind/mujoco_menagerie/blob/main/google_robot/) | Apache-2.0 | ✔️ | ✔️ | ✔️ |
